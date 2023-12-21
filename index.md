@@ -54,7 +54,7 @@ This is in fact what we see with the plot above. In over 40% of movies, actresse
 We see that all genres aren’t equal when it comes to the representation of women. On one hand we have Action, Western and Drama for which over 50% of movies have less than 25% of women in their casts. On the other, three genres seem to do slightly better than the average namely Musical, Adventure and Horror.
 
 ### Is the age gap even real? 
-> Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30 <br />_TIME magazine 2015[^2]_
+> Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30 <br /> - TIME magazine 2015[^2]
 
 There is in fact not only a gap in representation but also in the age of actors versus actresses. Often times it seems that the actresses are significantly younger than their male counterparts. It is not only an impression, this can in fact be seen very well in this plot
 

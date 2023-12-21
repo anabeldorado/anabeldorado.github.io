@@ -54,9 +54,7 @@ This is in fact what we see with the plot above. In over 40% of movies, actresse
 We see that all genres aren’t equal when it comes to the representation of women. On one hand we have Action, Western and Drama for which over 50% of movies have less than 25% of women in their casts. On the other, three genres seem to do slightly better than the average namely Musical, Adventure and Horror.
 
 ### Is the age gap even real? 
-<i>Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30.</i> - TIME magazine 2015[^2]
-
-There is in fact not only a gap in representation but also in the age of actors versus actresses. Often times it seems that the actresses are significantly younger than their male counterparts. It is not only an impression, this can in fact be seen very well in this plot
+<i>"Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30."</i> - TIME magazine 2015[^2]
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/Average_age_actor.html"></iframe>
@@ -66,15 +64,16 @@ There is in fact not only a gap in representation but also in the age of actors 
   <a href="html_plots/Average_age_actor.html">Figure 5</a>
 </div>
 
-<div class="withSidenote" markdown="1">
 
-On average, female actors are **significantly** younger than men at any point throughout the last century. This clearly emphasises the age gap in the industry. Interestingly, the average age of actors increases over time regardless of gender, potentially reflecting the long career span of actors (we see you Judi Dench, keep slayin). However, even throughout this maturing of the industry, the average age gap does not get any smaller. Have a go playing around with this next animation showing the complete breakdown of actors and actresses ages throughout the decades!
-
+On average, female actors are **significantly** younger than men at any point throughout the last century. This clearly emphasises the age gap in the industry. 
+<div class="withSidenote" markdown="1"> 
+Interestingly, the average age of actors increases over time regardless of gender, potentially reflecting the long career span of actors (we see you Judi Dench, keep slayin). 
 <figure class="sidenote">
-    <img src="images/Judi_Dench_1959.jpeg">
-    <figcaption><a href="https://en.wikipedia.org/wiki/Judi_Dench"><em>Figure 6.</em></a> Judi Dench in 1963. By Stevan Kragujević. </figcaption>
+  <img src="images/Judi_Dench_1959.jpeg">
+  <figcaption><a href="https://en.wikipedia.org/wiki/Judi_Dench"><em>Figure 6.</em></a> Judi Dench in 1963. By Stevan Kragujević. </figcaption>
 </figure>
 </div>
+However, even throughout this maturing of the industry, the average age gap does not get any smaller. Have a go playing around with this next animation showing the complete breakdown of actors and actresses ages throughout the decades!
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/age_distribution_plot.html"></iframe>

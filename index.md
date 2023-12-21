@@ -41,7 +41,7 @@ Nevertheless, this result doesn't mean that each movie has 30-40% of women in th
   <a href="html_plots/movie_proportions.html">Figure 3</a>
 </div>
 
-This is in fact what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while we may think from Figure 1 that women represent 40% of characters in movies, this plot may be a better representation of what actresses are experiencing during their work. Nonetheless, from 2000 onwards there is a growing number of movies with a majority of women actors in their cast. Breaking this down further by genre we can look more precisely at the individual trends.
+This is in fact what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while we may think from Figure 1 that women represent 40% of characters in movies, this plot may be a better representation of what actresses are experiencing during their work. Nonetheless, from 2000 onwards there is a growing number of movies with a majority of women actors in their cast. Lets break this trend down further by looking into some individual genres.
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions_percentages_actress_by_genre.html"></iframe>
@@ -51,7 +51,7 @@ This is in fact what we see with the plot above. In over 40% of movies, actresse
   <a href="html_plots/movie_proportions_percentages_actress_by_genre.html">Figure 4</a>
 </div>
 
-Interestingly, three genres stick out as much worse than the average: Action, Western and Drama. In those genres, over 50% of movies that have less than 25% of women in them. On the contrary, three genres seem to do slightly better than the average namely Musical, Adventure and Horror. This shows that all genres aren’t equal when it comes to women representation. 
+We see that all genres aren’t equal when it comes to the representation of women. On one hand we have Action, Western and Drama for which over 50% of movies have less than 25% of women in their casts. On the other, three genres seem to do slightly better than the average namely Musical, Adventure and Horror.
 
 ### Is the age gap even real? 
 > Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30 <br />_TIME magazine 2015[^2]_

@@ -66,7 +66,7 @@ There is in fact not only a gap in representation but also in the age of actors 
   <a href="html_plots/Average_age_actor.html">Figure 5</a>
 </div>
 
-On average, female actors are **significantly** younger than men at any point throughout the last century. This clearly emphasises the age gap in the industry. Moreover, the average age of actors increases over time regardless of gender, potentially reflecting the long career span of actors. As a matter of fact, an actor starting in the 60s might be playing well into the 80s. But throughout this maturing of the industry, the age gap does not get smaller. This next animation we clearly see the exact breakdown of actors and actresses throughout the decades. TO ADD: more analysis here (Distributions are skewed towards the left and heavy tailed)
+On average, female actors are **significantly** younger than men at any point throughout the last century. This clearly emphasises the age gap in the industry. Interestingly, the average age of actors increases over time regardless of gender, potentially reflecting the long career span of actors (we see you Judi Dench, keep slayin). However, even throughout this maturing of the industry, the average age gap does not get any smaller. Have a go playing around with this next animation showing the complete breakdown of actors and actresses ages throughout the decades!
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/age_distribution_plot.html"></iframe>

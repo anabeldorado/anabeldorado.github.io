@@ -181,13 +181,24 @@ Action and Western still fall into the category of stereotypical as expected by 
 
 There are of course limitations with this analysis. Most prevalently, we see that romantic comedies appear in movies that have a non-stereotypical representation of women. It is however well-known that in general in romantic comedies women are solely love interests and are thus portrayed stereotypically. This highlights the need to not only look at the proportion of actresses, the proportion of women character and the age difference but consider other factors. More precisely **the vocabulary linked** to female and male actors in general. This is a perfect segue into our final analysis: *The Vocabulary Analysis*
 
+yaaaaaaaaa
+
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="1000" height="550" src="html_plots/combined_word_freq_plots.html"></iframe>
 </object>
 
+yooooo 
+
 <div class="left">
   <a href="html_plots/combined_word_freq_plots.html">Figure 13</a>
 </div>
+
+hmmm
+
+<div class="left">
+  <a href="combined_plots.html" target="_blank">Figure 12 (Combined)</a>
+</div>
+
 
 # References 
 [^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)

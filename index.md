@@ -182,29 +182,11 @@ Action and Western still fall into the category of stereotypical as expected by 
 There are of course limitations with this analysis. Most prevalently, we see that romantic comedies appear in movies that have a non-stereotypical representation of women. It is however well-known that in general in romantic comedies women are solely love interests and are thus portrayed stereotypically. This highlights the need to not only look at the proportion of actresses, the proportion of women character and the age difference but consider other factors. More precisely **the vocabulary linked** to female and male actors in general. This is a perfect segue into our final analysis: *The Vocabulary Analysis*
 
 <object>
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="300" src="html_plots/interactive_plot_frequencies_Nouns.html"></iframe>
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="300" src="html_plots/combined_word_freq_plots.html"></iframe>
 </object>
 
 <div class="left">
-  <a href="html_plots/interactive_plot_frequencies_Nouns.html">Figure 12</a>
-</div>
-
-
-<object>
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="300" src="html_plots/interactive_plot_frequencies_Adjectives.html"></iframe>
-</object>
-
-<div class="left">
-  <a href="html_plots/interactive_plot_frequencies_Adjectives.html">Figure 12</a>
-</div>
-
-
-<object>
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="300" src="html_plots/interactive_plot_frequencies_Verbs.html"></iframe>
-</object>
-
-<div class="left">
-  <a href="html_plots/interactive_plot_frequencies_Verbs.html">Figure 12</a>
+  <a href="html_plots/combined_word_freq_plots.html">Figure 13</a>
 </div>
 
 # References 

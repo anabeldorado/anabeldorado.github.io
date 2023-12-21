@@ -139,8 +139,8 @@ Purple Cluster has a higher proportion of women in the cast, also as main charac
 
 | cluster index | proportion of women | proportion of women main characters | difference in mean ages |
 |---------------|---------------------|-------------------------------------|-------------------------|
-| 0             | 0.531               | 0.978                               | -6.755                  |
-| 1             | 0.321               | 0                                   | -8.079                  |
+| <p style="color: purple;">0</p>            | 0.531               | 0.978                               | -6.755                  |
+| <p style="color: turquoise;">1</p>            | 0.321               | 0                                   | -8.079                  |
 | 2             | 0.398               | 0.461                               | -7.197                  |
 
 <div class="left">

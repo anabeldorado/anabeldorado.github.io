@@ -54,7 +54,8 @@ This is in fact what we see with the plot above. In over 40% of movies, actresse
 We see that all genres aren’t equal when it comes to the representation of women. On one hand we have Action, Western and Drama for which over 50% of movies have less than 25% of women in their casts. On the other, three genres seem to do slightly better than the average namely Musical, Adventure and Horror.
 
 ### Is the age gap even real? 
-<i>"Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30."</i> - TIME magazine 2015[^2]
+<i>"Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30."</i> 
+- TIME magazine 2015[^2]
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/Average_age_actor.html"></iframe>
@@ -101,8 +102,9 @@ It is interesting to point out the initial decrease that occurred from the 1910s
 - 1983 :  Flying on the Space Shuttle Challenger, Sally Ride becomes the first American woman in space.
 - 1984 :  Democratic presidential nominee Walter Mondale names U.S. Rep. Geraldine Ferraro (N.Y.) as his running mate, making her the first woman vice president nominee by a major party.
 
-We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women. According to the San Diego State University Center for the Study of Women in Television and Film, in 2022, females comprised 44% (43.8%) of major characters. [^3] (POTENTIALLY ADD TEXT ABOUT SUBPLOTS)
+We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women, with a 95% confidence interval going up to 42.9% According to the San Diego State University Center for the Study of Women in Television and Film, females comprised 43.8% of major characters in 2022. [^3] We are not far off! 
 
+When breaking this down futher by genre we see that our top 3 genres, Musical,Adventure and Horror, reach similar or even higher ratios than overall. Unsuprisingly, Drama, Western and Action are lagging behind.
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_main_characters_per_genre.html"></iframe>
 </object>
@@ -124,7 +126,7 @@ We thus see women accessing political positions that were so far only occupied b
 ## Clustering of movies
 
 <div class="withSidenote" markdown="1">
-What do you think of when you think of a stereotypical portrayal of a woman ? Does a young pretty actress that does not contribute to the plot pop into your mind? Being able to classify a movie into stereotypical or non-stereotypical is very valuable in this case. By clustering movies based on the proportion of women, the proportion of women main characters and the difference in the mean ages of men and women in the cast, we were able to cluster all movies into 3 categories. A cluster of stereotypical movies (cluster 1), a cluster of non-stereotypical movies (cluster 0), and finally a cluster that falls somewhere in between, not extreme enough to fall into either category (cluster 2).  
+What do you think of when you think of a stereotypical portrayal of a woman ? Does a young pretty actress not contributing to the plot pop into your mind? Being able to classify a movie into stereotypical or non-stereotypical is very valuable in this case. By clustering movies based on the proportion of women, the proportion of women main characters and the difference in the mean ages of men and women in the cast, we were able to cluster all movies into 3 categories. A cluster of stereotypical movies (turquoise), a cluster of non-stereotypical movies (purple), and finally a cluster that falls somewhere in between, not extreme enough to fall into either category (yellow).  
 
 <figure class="sidenote">
     <img src="images/cluster.png">
@@ -132,10 +134,10 @@ What do you think of when you think of a stereotypical portrayal of a woman ? Do
 </figure>
 </div>
 
-Cluster 0 has a higher proportion of women in the cast, also as main character and a smaller difference of mean ages than the other clusters. Cluster 1 is the most stereotypical, with no women as main characters, a low proportion of actresses, and the highest mean age difference. 
+Purple Cluster has a higher proportion of women in the cast, also as main character and a smaller difference of mean ages than the other clusters. Turquoise Cluster is the most stereotypical, with no women as main characters, a low proportion of actresses, and the highest mean age difference. 
 
 
-| cluster index | proportion of women | proportion fo women main characters | difference in mean ages |
+| cluster index | proportion of women | proportion of women main characters | difference in mean ages |
 |---------------|---------------------|-------------------------------------|-------------------------|
 | 0             | 0.531               | 0.978                               | -6.755                  |
 | 1             | 0.321               | 0                                   | -8.079                  |

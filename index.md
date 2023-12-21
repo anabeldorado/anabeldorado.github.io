@@ -70,7 +70,7 @@ On average, female actors are **significantly** younger than men at any point th
 
 <figure class="sidenote">
   <img src="images/Judi_Dench_1959.jpeg">
-  <figcaption><a href="https://en.wikipedia.org/wiki/Judi_Dench"><em>Figure 6.</em></a> Judi Dench in 1963. By Stevan Kragujević. </figcaption>
+  <figcaption><a href="https://en.wikipedia.org/wiki/Judi_Dench"><em>Figure 6.</em></a> Judi Dench in 1959. By Stevan Kragujević. </figcaption>
 </figure>
 </div>
 

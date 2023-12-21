@@ -73,7 +73,7 @@ Interestingly, the average age of actors increases over time regardless of gende
   <figcaption><a href="https://en.wikipedia.org/wiki/Judi_Dench"><em>Figure 6.</em></a> Judi Dench in 1963. By Stevan Kragujević. </figcaption>
 </figure>
 </div>
-However, even throughout this maturing of the industry, the average age gap does not get any smaller. Have a go playing around with this next animation showing the complete breakdown of actors and actresses ages throughout the decades!
+However, even throughout this maturing of the industry, the average age gap does not get any smaller. Have a go playing around with this next animation, showing the complete breakdown of actors' and actresses' ages throughout the decades!
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/age_distribution_plot.html"></iframe>
@@ -85,7 +85,7 @@ However, even throughout this maturing of the industry, the average age gap does
 
 Now all of this does not tell us in any way **how** women are portrayed in these movies. We've seen that women's representation is increasing but what kind of representation ? 
 
-## Is women representation shifting towards major roles ? 
+## We want major roles!
 Having a women lead is much more meaningful than adding only female secondary characters. It is therefore crucial to be able to differentiate the two. 
 
 <object>

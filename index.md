@@ -192,7 +192,7 @@ There are of course limitations with this analysis. Most prevalently, we see tha
 
 ## Hey kids, spelling is fun! - Let's look at words
 
-As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main character.
+As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters.
 
 
 <object>
@@ -214,6 +214,9 @@ But one last time,  let’s  break it down by genres.
 </div>
 
 Each genre is in fact recognizable for example action movies with words such as _kill_ _death_ or _battle_,  or  Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_ ,_supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and  _beautiful_, and this all regadless of the genre, up until the most recent decades. Thus, women are  mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others. As opposed to men who have a wider variety of words in every genre and mainly action words like  _kill_ and  _party_.  Nevertheless, we focused on the representation of  women here, but when looking at the words associated with men, even in what should be non-stereotypical movies, they're still not words like _father_ or _caring_, but rather still the stereotypical words. It therefore seems that when looking at the overarching trend, there has been no real improvement in ***how*** women are portrayed in the movie industry. Should you lose all hope? Most definitely not! 
+
+## Conclusion
+It's been a wild ride, thank  you for tagging along with us! It's time for a rewind. 
 
 # References 
 [^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)

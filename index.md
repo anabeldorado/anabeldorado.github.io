@@ -191,11 +191,11 @@ There are of course limitations with this analysis. Most prevalently, we see tha
 
 ## Hey kids, spelling is fun! - Let's look at words
 
-As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. yes?
+As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. no?
 
 <label for="plotSelector">Select a Plot:</label>
 <select id="plotSelector" onchange="loadPlot()">
-    <option value="html_plots/interactive_plot_frequencies_Verbs.html" selected>Verbs</option>
+    <option value="html_plots/interactive_plot_frequencies_Verbs.html">Verbs</option>
     <option value="html_plots/interactive_plot_frequencies_Adjectives.html">Adjectives</option>
     <option value="html_plots/interactive_plot_frequencies_Nouns.html">Nouns</option>
 </select>
@@ -206,9 +206,22 @@ As we’ve seen so far, it is not only important to have more women on screen, o
     }
 </style>
 
-<iframe id="plotFrame" width="100%" height="400px" frameborder="0" src="{{ html_plots/interactive_plot_frequencies_Verbs.html }}"></iframe>
+<iframe id="plotFrame" width="100%" height="400px" frameborder="0" src=""></iframe>
 
-<script src="{{ site.baseurl }}/assets/js/toggle.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+    $(document).ready(function() {
+        // Set the default plot to "Verbs" after the page has loaded
+        $("#plotSelector").val("html_plots/interactive_plot_frequencies_Verbs.html");
+        loadPlot(); // Load the selected plot
+    });
+
+    function loadPlot() {
+        var selectedPlot = $("#plotSelector").val();
+        $("#plotFrame").attr("src", selectedPlot);
+    }
+</script>
+
 
 <div class="left">
   Figure 14

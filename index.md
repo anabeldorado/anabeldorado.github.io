@@ -167,7 +167,7 @@ What has been the evolution of the release of these 2 types of movies, you may a
 
 <div class="withSidenote" markdown="1">
 
-From 1920 up to 2020, there seem to have always been a higher percentage of movies produced that had a stereotypical depiction of women. In the 70s the proportion of stereotypical movies was almost 50% and is the highest in the years analysed. Of course, due to the large confidence intervals that result should be taken with a grain of salt. Interestingly, the proportion of non-stereotypical movies was relatively stable throughout the decades until 2000. From 2000 to 2020 we see a strong increase of the proportion of movies with a non-stereotypical depiction of women to reach approximately the same percentage as stereotypical movies. (YAY!) Going back to our beloved timeline, multiple events where women ascended to a position of power could have prompted this increase, such as the first female attorney general, the first female secretary of state or the first female speaker of the house.
+From 1920 up to 2020, there seem to have always been a higher percentage of movies produced that had a stereotypical depiction of women. In the 70s the proportion of stereotypical movies was almost 50% and is the highest in the years analysed. Of course, due to the large confidence intervals that result should be taken with a grain of salt. Interestingly, the proportion of non-stereotypical movies was relatively stable throughout the decades until 2000. From 2000 to 2020 we see a strong increase in the proportion of movies with a non-stereotypical depiction of women, reaching approximately the same percentage as stereotypical movies. (YAY!) Going back to our beloved timeline, multiple events where women ascended to a position of power could have prompted this increase, such as the first female attorney general, the first female secretary of state, or the first female speaker of the house.
 
 <figure class="sidenote">
     <img src="images/Janet_Reno-us-Portrait.jpeg">
@@ -175,7 +175,7 @@ From 1920 up to 2020, there seem to have always been a higher percentage of movi
 </figure>
 </div>
 
-Now that we have a way of categorising these movies and we’ve seen the release trends, what genres are overrepresented into our two clusters of interest ? Reminder that previously we saw that 
+Now that we have a way of categorising these movies and we’ve seen the release trends, what genres are overrepresented in our two clusters of interest ? Reminder that previously we saw that 
 - Musical
 - Adventure
 - Horror
@@ -195,13 +195,13 @@ tended to do worse. Now how does that compare to this clustering ? Picture a pie
   <a href="html_plots/clustering_genre_barplot.html">Figure 14</a>
 </div>
 
-Action and Western still fall into the category of stereotypical as expected by the previous analysis. Similarly, but on the other side of the spectrum, Horror and Musical are in the  non-stereotypical cluster. Surprisingly, Drama and Adventure are not on the side we would expect. Indeed, we previously saw that Drama had low women representation, but is actually overrepresented into the non-stereotypical cluster, and Adventure has a similar trend but in the opposite direction. 
+Action and Western still fall into the category of stereotypical as expected by the previous analysis. Similarly, but on the other side of the spectrum, Horror and Musical are in the  non-stereotypical cluster. Surprisingly, Drama and Adventure are not on the side we would expect. Indeed, we previously saw that Drama had low female representation, but is actually overrepresented into the non-stereotypical cluster, and Adventure has a similar trend but in the opposite direction. 
 
-There are of course limitations with this analysis. Most prevalently, we see that romantic comedies appear in movies that have a non-stereotypical representation of women. However, women are often solely love interests in romantic comedies and are thus portrayed stereotypically. Moreover, romantic comedies usually portray heterosexual couples, so the proportion of men and women actors tends to be close to 50-50, which biases our analysis. This highlights the need to not only look at the proportion of actresses, the proportion of women character, and the age differences but to also consider other factors. More precisely, the **vocabulary** associated to female and male actors in general. This is a perfect segue into our final analysis: *The Vocabulary Analysis* (YAY!)
+There are of course limitations with this analysis. Most prevalently, we see that romantic comedies appear in movies that have a non-stereotypical representation of women. However, women are often solely love interests in romantic comedies and are thus portrayed stereotypically. Moreover, romantic comedies usually portray heterosexual couples, so the proportion of men and women actors tends to be close to 50-50, which biases our analysis. This highlights the need to not only look at the proportion of actresses, the proportion of women characters, and the age differences but to also consider other factors. More precisely, the **vocabulary** associated with female and male actors in general. This is a perfect segue into our final analysis: *The Vocabulary Analysis* (YAY!)
 
 ## Hey kids, spelling is fun! - Let's look at words
 
-As we’ve seen so far, it is not enough to have more women on screen, or even female leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters.
+As we’ve seen so far, it is not enough to have more women on screen, or even female leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the words, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters.
 
 <label for="plotSelector1">Select a Plot:</label>
 <select id="plotSelector1" onchange="loadPlot1()">
@@ -240,7 +240,7 @@ As we’ve seen so far, it is not enough to have more women on screen, or even f
   Figure 15
 </div>
 
-With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively (all genres). While this analysis captures the most commonly associated words, it’s important to note that it may miss changes in less common words, highlighting one of its caveats. We first notice that the words associated to each gender are overall quite constant throughout the decades. More striking is the contrast of words associated with men versus women. Men are highly linked to action related words such as _kill_, _save_ or _soldier_. On the other hand  women are mostly associated with everyday life type of words such as _love_, _marry_ or _family_, or with their appearance like _beautiful_ or _pretty_. So have we really moved away from the housewife representation ?
+With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively (all genres). While this analysis captures the most commonly associated words, it’s important to note that it may miss changes in less common words, highlighting one of its caveats. We first notice that the words associated with each gender have remained quite constant throughout the decades. More striking is the contrast of words associated with men versus women. Men are highly linked to action-related words such as _kill_, _save_ or _soldier_. On the other hand  women are mostly associated with everyday life type of words such as _love_, _marry_ or _family_, or with their appearance like _beautiful_ or _pretty_. So have we really moved away from the housewife representation ?
 
 **In an announcer's voice** One last time, let’s break it down by genres!
 
@@ -284,7 +284,7 @@ With this visualisation we can observe the top 5 associated verbs, nouns and adj
   Figure 16
 </div>
 
-We analysed the 3 most and 3 least stereotypical genres identified by our clustering analysis (Figure 13) and each genre is easily recognizable. For example, action movies with words such as _kill_, _death_ or _battle_, or Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_, _supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and _beautiful_, regardless of the genre, up until the most recent decades. Thus, women are mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others. As opposed to men, who have a wider variety of words in every genre and mainly action words such as _kill_ and _party_. Nevertheless, even though we do not dive into it here, men are also stereotypically represented. Instead of real-life words like _father_, _caring_, or _love_, the industry clearly prioritizes strength and an emotional void. It therefore seems like there has been no real improvement in ***how*** women, but also men, are portrayed in the movie industry.
+We analysed the 3 most and 3 least stereotypical genres identified by our clustering analysis (Figure 13) and each genre is easily recognizable. For example, action movies with words such as _kill_, _death_ or _battle_, or Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_, _supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and _beautiful_, regardless of the genre, up until the most recent decades. Thus, women are mostly described based on their physical appearance and their relationships with others instead of having their own personalities and being someone even in the absence of others. As opposed to men, who have a wider variety of words in every genre and mainly action words such as _kill_ and _party_. Nevertheless, even though we do not dive into it here, men are also stereotypically represented. Instead of real-life words like _father_, _caring_, or _love_, the industry clearly prioritizes strength and an emotional void. It therefore seems like there has been no real improvement in ***how*** women, but also men, are portrayed in the movie industry.
 
 ## Final Note
 It’s been a wild ride, thank you for tagging along with us! It’s time for a rewind.
@@ -296,11 +296,11 @@ It’s been a wild ride, thank you for tagging along with us! It’s time for a 
 
 <span class="pink-star">&#9733;</span> The representation of women is increasing, but all genres are not made equal.
 
-<span class="pink-star">&#9733;</span> The industry is aging but the age gap shows no sign of shrinking. 
+<span class="pink-star">&#9733;</span> The industry is aging, but the age gap shows no sign of shrinking. 
 
 <span class="pink-star">&#9733;</span> While the proportion of female leads is increasing, the vocabulary analysis revealed that there was little improvement in the words associated with women characters.
 
-So should we be hopeless? Not at all! We want to leave you with a positive outlook on the future of Hollywood. Indeed, 2023 has been promising for the future of women in the industry. Female led movies can be massive successes! The perfect example of this is the Barbie wave that hit us this summer. Directed by Greta Gerwig and with Margot Robbie as the lead, it has been the highest grossing movie in Warner Brothers’ 100-year history with box office sales exceeding $567 million [^4]. Change is incremental and starts with sparks. Who knows... maybe we're just about to light a fire.
+So should we be hopeless? Not at all! We want to leave you with a positive outlook on the future of Hollywood. Indeed, 2023 has been promising for the future of women in the industry. Female-led movies can be massive successes! The perfect example of this is the Barbie wave that hit us this summer. Directed by Greta Gerwig and with Margot Robbie as the lead, it has been the highest grossing movie in Warner Brothers’ 100-year history with box office sales exceeding $567 million [^4]. Change is incremental and starts with sparks. Who knows... maybe we're just about to light a fire.
 
 # References 
 [^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)

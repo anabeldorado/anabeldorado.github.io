@@ -222,7 +222,6 @@ As we’ve seen so far, it is not only important to have more women on screen, o
     }
 </script>
 
-
 <div class="left">
   Figure 14
 </div>
@@ -230,7 +229,39 @@ As we’ve seen so far, it is not only important to have more women on screen, o
 With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively in all genres combined. We first  notice that these ratios seem to be quite constant through time. More striking is the contrast of words associated with men versus  women.  Men are highly linked to action related words such as kill, save or soldier. On the other hand  women are mostly associated with everyday life type of words such as love, marry or family or appearance like beautiful or pretty. So have we really moved away  from the housewise representation ? It seems that women are still very  much associated with 
 While this analysis captures the most commonly associated words, it’s important to note that it may  miss changes in less common words, highlighting one of its caveats. 
 
-But one last time,  let’s  break it down by genres. 
+But one last time, let’s  break it down by genres. 
+
+<label for="plotSelector">Select a Plot:</label>
+<select id="plotSelector" onchange="loadPlot()">
+    <option value="html_plots/rel_freq_interactive_Action.html">Verbs</option>
+    <option value="html_plots/rel_freq_interactive_Adventure.html">Adventure</option>
+    <option value="html_plots/rel_freq_interactive_Drama.html">Drama</option>
+    <option value="html_plots/rel_freq_interactive_Horror.html">Horror</option>
+    <option value="html_plots/rel_freq_interactive_Musical.html">Musical</option>
+    <option value="html_plots/rel_freq_interactive_Western.html">Western</option>
+</select>
+
+<style>
+    #plotSelector option:checked {
+        display: none;
+    }
+</style>
+
+<iframe id="plotFrame" width="100%" height="400px" frameborder="0" src=""></iframe>
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+    $(document).ready(function() {
+        // Set the default plot to "Verbs" after the page has loaded
+        $("#plotSelector").val("html_plots/rel_freq_interactive_Action.html");
+        loadPlot(); // Load the selected plot
+    });
+
+    function loadPlot() {
+        var selectedPlot = $("#plotSelector").val();
+        $("#plotFrame").attr("src", selectedPlot);
+    }
+</script>
 
 <div class="left">
   <a href="combined_plots.html" target="_blank">Figure 15 (Combined)</a>

@@ -191,7 +191,7 @@ There are of course limitations with this analysis. Most prevalently, we see tha
 
 ## Hey kids, spelling is fun! - Let's look at words
 
-As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. no?
+As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters.
 
 <label for="plotSelector">Select a Plot:</label>
 <select id="plotSelector" onchange="loadPlot()">
@@ -240,7 +240,8 @@ Each genre is in fact recognizable for example action movies with words such as 
 
 ## Conclusion
 It’s been a wild ride, thank you for tagging along with us! It’s time for a rewind.
-- The representation of women is increasing, but all genres  are not made equal.
+<p>This is a pink heart: <span style="color: pink;">&#x2764;&#xfe0f;</span></p> The representation of women is increasing, but all genres  are not made equal.
+
 - The industry is ageing but the age gap shows no signs of shrinking. 
 - Women want to be multifaceted and no longer want to be  mere loving, pregnant housewives. And while we have observed an increase in women main characters  the vocabulary analysis has shown little improvement of the words associated with women characters. 
 - So should we be hopeless, not at all!  We want to leave you with a positive outlook of the future  of  Hollywood. Indeed this 2023  year has been promising for the future of women in the industry. Female  led movies can be massive successes when they’re  actually made by the studios. The perfect  example of this is the Barbie wave that hit us this summer. Directed by Greta Gerwig and with Margot Robie as the lead, it has been the highest grossing movie in Warner Brothers’ 100-year history with box office sales exceeding $567 million. [^4] . Change is incremental and  starts  with  a  spark and  this  seems  bright enough for people to start looking. 

@@ -232,7 +232,8 @@ As we’ve seen so far, it is not enough to have more women on screen, or even f
 </script>
 
 <object>
-  <img src="images/legend_plts_words.png">
+  <img src="images/legend_plts_words.png"
+    width="40" >
 </object>
 
 <div class="left">
@@ -275,7 +276,9 @@ With this visualisation we can observe the top 5 associated verbs, nouns and adj
 </script>
 
 <object>
-  <img src="images/legend_plts_words.png">
+  <img src="images/legend_plts_words.png"
+    width="40" 
+    />
 </object>
 
 <div class="left">

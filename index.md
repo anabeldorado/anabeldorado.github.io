@@ -191,14 +191,13 @@ There are of course limitations with this analysis. Most prevalently, we see tha
 
 ## Hey kids, spelling is fun! - Let's look at words
 
-As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. Hi
-
+As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. hmm
 
 <label for="plotSelector">Select a Plot:</label>
 <select id="plotSelector" onchange="loadPlot()">
-    <option value="interactive_plot_frequencies_Verbs.html">Verbs</option>
-    <option value="interactive_plot_frequencies_Adjectives.html">Adjectives</option>
-    <option value="interactive_plot_frequencies_Nouns.html">Nouns</option>
+    <option value="html_plots/interactive_plot_frequencies_Verbs.html">Verbs</option>
+    <option value="html_plots/interactive_plot_frequencies_Adjectives.html">Adjectives</option>
+    <option value="html_plots/interactive_plot_frequencies_Nouns.html">Nouns</option>
 </select>
 
 <style>
@@ -207,7 +206,7 @@ As we’ve seen so far, it is not only important to have more women on screen, o
     }
 </style>
 
-<iframe id="plotFrame" width="100%" height="400px" frameborder="0"></iframe>
+<iframe id="plotFrame" width="100%" height="400px" frameborder="0" src="{{ page.default_plot }}"></iframe>
 
 <script src="{{ site.baseurl }}/toggle.js"></script>
 

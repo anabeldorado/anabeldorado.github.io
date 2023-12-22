@@ -194,20 +194,27 @@ There are of course limitations with this analysis. Most prevalently, we see tha
 
 As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters.
 
+<label for="plotSelector">Select a Plot:</label>
+<select id="plotSelector" onchange="loadPlot()">
+    <option value="html_plots/interactive_plot_frequencies_Verbs">Verbs</option>
+    <option value="html_plots/interactive_plot_frequencies_Adjectives">Adjectives</option>
+    <option value="html_plots/interactive_plot_frequencies_Verbs">Nouns</option>
+</select>
 
-<object>
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="1000" height="550" src="html_plots/combined_word_freq_plots.html"></iframe>
-</object>
+<style>
+    #plotSelector option:checked {
+        display: none;
+    }
+</style>
 
-With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively in all genres combined. We first  notice that these ratios seem to be quite constant through time. More striking is the contrast of words associated with men versus  women.  Men are highly linked to action related words such as kill, save or soldier. On the other hand  women are mostly associated with everyday life type of words such as love, marry or family or appearance like beautiful or pretty. So have we really moved away  from the housewise representation ?  It seems that women are still very  much associated with 
+<div class="left">
+  Figure 14
+</div>
+
+With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively in all genres combined. We first  notice that these ratios seem to be quite constant through time. More striking is the contrast of words associated with men versus  women.  Men are highly linked to action related words such as kill, save or soldier. On the other hand  women are mostly associated with everyday life type of words such as love, marry or family or appearance like beautiful or pretty. So have we really moved away  from the housewise representation ? It seems that women are still very  much associated with 
 While this analysis captures the most commonly associated words, it’s important to note that it may  miss changes in less common words, highlighting one of its caveats. 
 
 But one last time,  let’s  break it down by genres. 
-
-
-<div class="left">
-  <a href="html_plots/combined_word_freq_plots.html">Figure 14</a>
-</div>
 
 <div class="left">
   <a href="combined_plots.html" target="_blank">Figure 15 (Combined)</a>

@@ -196,9 +196,9 @@ As we’ve seen so far, it is not only important to have more women on screen, o
 
 <label for="plotSelector">Select a Plot:</label>
 <select id="plotSelector" onchange="loadPlot()">
-    <option value="plot1.html">Plot 1</option>
-    <option value="plot2.html">Plot 2</option>
-    <option value="plot3.html">Plot 3</option>
+    <option value="html_plots/interactive_frequencies_Verbs.html">Verbs</option>
+    <option value="html_plots/interactive_frequencies_Adjectives.html">Adjectives</option>
+    <option value="html_plots/interactive_frequencies_Nouns.html">Nouns</option>
 </select>
 
 <style>

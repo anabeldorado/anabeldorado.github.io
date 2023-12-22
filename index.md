@@ -140,22 +140,18 @@ What do you think of when you think of a stereotypical portrayal of a woman ? Do
 </figure>
 </div>
 
-Purple Cluster has a higher proportion of women in the cast, also as main character and a smaller difference of mean ages than the other clusters. Turquoise Cluster is the most stereotypical, with no women as main characters, a low proportion of actresses, and the highest mean age difference. 
 
-
-| cluster index | proportion of women | proportion of women main characters | difference in mean ages |
-|---------------|---------------------|-------------------------------------|-------------------------|
-| 0             | 0.531               | 0.978                               | -6.755                  |
-| 1             | 0.321               | 0                                   | -8.079                  |
-| 2             | 0.398               | 0.461                               | -7.197                  |
+|      cluster      | proportion of women | proportion of women main characters | difference in mean ages |
+|-------------------|---------------------|-------------------------------------|-------------------------|
+| Non-Stereotypical | 0.531               | 0.978                               | -6.755                  |
+| Stereotypical     | 0.321               | 0                                   | -8.079                  |
+| Moderate          | 0.398               | 0.461                               | -7.197                  |
 
 <div class="left">
   Table 1
 </div>
 
-- Cluster 0: Non-Stereotypical
-- Cluster 1: Stereotypical
-- Cluster 2: Somewhere in between
+The Non-Stereotypical cluster has the highest proportion of women in its casts, as well as in its main characters and it shows the smallest mean age difference. The stereotypical cluster boasts the highest mean age difference, the lowest proportion of actresses and a whopping **0** women playing lead characters. 
 
 What has been the evolution of the release of these 2 types of movies you may ask! 
 

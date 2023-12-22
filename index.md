@@ -3,12 +3,12 @@ layout: page
 title: "Hollywood Unveiled"
 cover-img: images/women-collage.png
 ---
-The perception and role of women in the US society has greatly evolved during the past century with women being granted a myriad of new rights. Simultaneously, their perception has also evolved, shifting away from mere housewives. Movies are often seen as a reflection of society, moving along with its ebbs and flows. But has this specific social movement bled into the entertainment industry? Has the depiction of women progressed alongside important milestones in the Feminist movement? Or on the contrary, do stereotypes around women still prevail in Hollywood?
+The perception and role of women in US society have greatly evolved during the past century, with women being granted a myriad of new rights. Simultaneously, their perception has also evolved, shifting away from mere housewives. Movies are often seen as a reflection of society, moving along with its ebbs and flows. But has this specific social movement bled into the entertainment industry? Has the depiction of women progressed alongside important milestones in the Feminist movement? Or, on the contrary, do stereotypes around about still prevail in Hollywood?
 
 This data story will explore the <a href="http://www.cs.cmu.edu/~ark/personas/"><em>CMU Movie Summary Corpus</em></a> to explore how women are portrayed in Hollywood.
 
 ## Over the decades
-The proportion of actresses over time gives us a first insight into how well the industry is representing women. According to expert Dr. Martha Lauzen, “Despite the major disruptions in the film business over the last couple of years, onscreen gender ratios have remained relatively stable.”[^1] But what if we compare to 100 years ago, is the picture still as bleak?
+The proportion of actresses over time gives us a first insight into how well the industry is representing women. According to expert Dr. Martha Lauzen, “Despite the major disruptions in the film business over the last couple of years, onscreen gender ratios have remained relatively stable.”[^1] But what if we compare it to 100 years ago? Is the picture still as bleak?
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_men_women.html"></iframe>
@@ -21,7 +21,7 @@ The proportion of actresses over time gives us a first insight into how well the
 
 <div class="withSidenote" markdown="1">
 
-Figure 1 shows us that the ratio of women in Hollywood has remained fairly constant over time, staying close to 30% until the 2010s. The 40% mark has been broken for the first time during this decade, getting actresses closer to parity. This increasing trend seems to have started in the 70s, and allows us to fit a regression line to the ratios from the 70s to today. If the industry keeps evolving at this rate, we could naively say that parity would be reached in 2064. If the 70s really were the start of this increase, can it be explained by any significant event in history ? According to our [timeline](https://www.history.com/topics/womens-history/womens-history-us-timeline), the 60s saw the occurrence of two major events for women's rights in the US: the Equal Pay Act and the Civil Rights Act. The Equal Pay Act prohibits a difference of salary based on sex while the Civil Rights Act prohibits (amongst others) employment discrimination based on sex. These two events were a huge step towards gender equality and they might have prompted a change in mentality, resulting in the proportion of women in movies increasing.
+Figure 1 shows us that the ratio of women in Hollywood has remained fairly constant over time, staying close to 30% until the 2010s. The 40% mark has been broken for the first time during this decade, getting actresses closer to parity. This increasing trend seems to have started in the 70s, and allows us to fit a regression line to the ratios from the 70s to today. If the industry keeps evolving at this rate, we could naively say that parity would be reached in 2064. If the 70s really were the start of this increase, can it be explained by any significant event in history ? According to our [timeline](https://www.history.com/topics/womens-history/womens-history-us-timeline), the 60s saw the occurrence of two major events for women's rights in the US: the Equal Pay Act and the Civil Rights Act. The Equal Pay Act prohibits a difference in salary based on sex, while the Civil Rights Act prohibits, amongst others, employment discrimination based on sex. These two events were a huge step towards gender equality, and they might have prompted a change in mentality, resulting in the proportion of women in movies increasing.
 
 <figure class="sidenote">
     <img src="images/Equal_Pay_Act.jpg">
@@ -31,7 +31,7 @@ Figure 1 shows us that the ratio of women in Hollywood has remained fairly const
 
 ### Breakdown of women's representation in movies
 
-Nevertheless, this result doesn't mean that each movie has 30-40% of women in their cast. This result might be biased by movies that have an extremely low or high proportion of women.
+Nevertheless, this result doesn't mean that each movie has 30-40% women in its cast. This result might be biased by movies that have an extremely low or high proportion of women.
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions.html"></iframe>
@@ -41,7 +41,7 @@ Nevertheless, this result doesn't mean that each movie has 30-40% of women in th
   <a href="html_plots/movie_proportions.html">Figure 3</a>
 </div>
 
-This is what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while Figure 1 could lead us to believe that most movies have a 30-40% female cast, Figure 3 may more effectively illustrate what actresses are experiencing during their work. Nonetheless, from 2000 onwards, there is a growing number of movies with a majority of women actors in their cast. Let's break this trend down further by looking into some individual movie genres.
+This is what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while Figure 1 could lead us to believe that most movies have a 30-40% female cast, Figure 3 may more effectively illustrate what actresses are experiencing during their work. Nonetheless, from 2000 onwards, there has been a growing number of movies with a majority of women actors in their cast. Let's break this trend down further by looking into some individual movie genres.
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions_percentages_actress_by_genre.html"></iframe>
@@ -51,7 +51,7 @@ This is what we see with the plot above. In over 40% of movies, actresses make u
   <a href="html_plots/movie_proportions_percentages_actress_by_genre.html">Figure 4</a>
 </div>
 
-We see that all genres aren’t equal when it comes to the representation of women. On one hand we have Action, Western and Drama for which over 50% of movies have less than 25% of women in their casts. On the other, three genres seem to do slightly better than the average namely Musical, Adventure and Horror.
+We see that all genres aren’t equal when it comes to the representation of women. On one hand, we have Action, Western and Drama for which over 50% of movies have less than 25% women in their casts. On the other, three genres seem to do slightly better than the average, namely Musical, Adventure and Horror.
 
 ### Is the age gap even real? 
 > Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30. - TIME magazine 2015[^2]
@@ -66,7 +66,7 @@ We see that all genres aren’t equal when it comes to the representation of wom
 
 <div class="withSidenote" markdown="1"> 
 
-On average, female actors are **significantly** younger than men at any point throughout the last century. This clearly emphasises the age gap in the industry. Interestingly, the average age of actors increases over time regardless of gender, potentially reflecting the long career span of actors (we see you Judi Dench, keep slayin'). However, even throughout this maturing of the industry, the average age gap does not get any smaller. Have a go playing around with this next animation, showing the complete breakdown of actors' and actresses' ages throughout the decades!
+On average, female actors are **significantly** younger than men at any point throughout the last century. This clearly emphasizes the age gap in the industry. Interestingly, the average age of actors increases over time regardless of gender, potentially reflecting the long career span of actors (we see you Judi Dench, keep slayin'). However, even throughout this maturation of the industry, the average age gap does not get any smaller. Have a go playing around with this next animation, showing the complete breakdown of actors' and actresses' ages throughout the decades!
 
 <figure class="sidenote">
   <img src="images/Judi_Dench_1959.jpeg">
@@ -82,7 +82,7 @@ On average, female actors are **significantly** younger than men at any point th
   <a href="html_plots/age_distribution_plot.html">Figure 7</a>
 </div>
 
-Now all of this does not tell us in any way **how** women are portrayed in these movies. We've seen that women's representation is increasing but what kind of representation ? 
+Now, all of this does not tell us in any way **how** women are portrayed in these movies. We've seen that women's representation is increasing but what kind of representation ? 
 
 ## We want major roles!
 Having a female lead is much more meaningful than adding women only as secondary characters. It is therefore crucial to be able to differentiate the two. 

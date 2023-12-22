@@ -104,7 +104,7 @@ It is interesting to point out the initial decrease that occurred from the 1910s
 
 We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women, with a 95% confidence interval going up to 42.9% According to the San Diego State University Center for the Study of Women in Television and Film, females comprised 43.8% of major characters in 2022. [^3] We are not far off! 
 
-When breaking this down futher by genre we see that our top 3 genres, Musical,Adventure and Horror, reach similar or even higher ratios than overall. Unsuprisingly, Drama, Western and Action are lagging behind.
+When breaking this down futher by genre we see that our top 3 genres, Musical, Adventure and Horror, reach similar or even higher ratios than overall. Unsuprisingly, Drama, Western and Action are lagging behind.
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_main_characters_per_genre.html"></iframe>
 </object>
@@ -139,8 +139,8 @@ Purple Cluster has a higher proportion of women in the cast, also as main charac
 
 | cluster index | proportion of women | proportion of women main characters | difference in mean ages |
 |---------------|---------------------|-------------------------------------|-------------------------|
-| <p style="color: purple;">0</p>            | 0.531               | 0.978                               | -6.755                  |
-| <p style="color: turquoise;">1</p>            | 0.321               | 0                                   | -8.079                  |
+| 0             | 0.531               | 0.978                               | -6.755                  |
+| 1             | 0.321               | 0                                   | -8.079                  |
 | 2             | 0.398               | 0.461                               | -7.197                  |
 
 <div class="left">

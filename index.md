@@ -41,7 +41,7 @@ Nevertheless, this result doesn't mean that each movie has 30-40% of women in th
   <a href="html_plots/movie_proportions.html">Figure 3</a>
 </div>
 
-This is in fact what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while Figure 1 could lead us to believe that most movies have a 30-40% female cast, Figure 3 may more effectively illustrate what actresses are experiencing during their work. Nonetheless, from 2000 onwards, there is a growing number of movies with a majority of women actors in their cast. Let's break this trend down further by looking into some individual genres.
+This is what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while Figure 1 could lead us to believe that most movies have a 30-40% female cast, Figure 3 may more effectively illustrate what actresses are experiencing during their work. Nonetheless, from 2000 onwards, there is a growing number of movies with a majority of women actors in their cast. Let's break this trend down further by looking into some individual genres.
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions_percentages_actress_by_genre.html"></iframe>
@@ -225,10 +225,9 @@ As we’ve seen so far, it is not enough to have more women on screen, or even f
   Figure 14
 </div>
 
-With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively in all genres combined. We first  notice that these ratios seem to be quite constant through time. More striking is the contrast of words associated with men versus  women.  Men are highly linked to action related words such as kill, save or soldier. On the other hand  women are mostly associated with everyday life type of words such as love, marry or family or appearance like beautiful or pretty. So have we really moved away  from the housewise representation ? It seems that women are still very  much associated with 
-While this analysis captures the most commonly associated words, it’s important to note that it may  miss changes in less common words, highlighting one of its caveats. 
+With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively (all genres). While this analysis captures the most commonly associated words, it’s important to note that it may miss changes in less common words, highlighting one of its caveats. We first notice that the words associated to each gender are overall quite constant throughout the decades. More striking is the contrast of words associated with men versus women. Men are highly linked to action related words such as _kill_, _save_ or _soldier_. On the other hand  women are mostly associated with everyday life type of words such as _love_, _marry_ or _family_, or with their appearance like _beautiful_ or _pretty_. So have we really moved away from the housewife representation ?
 
-But one last time, let’s  break it down by genres. 
+**In an announcers voice** One last time, let’s  break it down by genres!
 
 <label for="plotSelector2">Select a Plot:</label>
 <select id="plotSelector2" onchange="loadPlot2()">
@@ -265,7 +264,7 @@ But one last time, let’s  break it down by genres.
   Figure 15
 </div>
 
-Each genre is in fact recognizable for example action movies with words such as _kill_ _death_ or _battle_,  or  Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_, _supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and  _beautiful_, and this all regadless of the genre, up until the most recent decades. Thus, women are  mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others. As opposed to men who have a wider variety of words in every genre and mainly action words like  _kill_ and  _party_.  Nevertheless, we focused on the representation of  women here, but when looking at the words associated with men, even in what should be non-stereotypical movies, they're still not words like _father_ or _caring_, but rather still the stereotypical words. It therefore seems that when looking at the overarching trend, there has been no real improvement in ***how*** women are portrayed in the movie industry. Should you lose all hope? Most definitely not! 
+Each genre is easily recognizable. For example, action movies with words such as _kill_, _death_ or _battle_, or Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_, _supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and _beautiful_, regardless of the genre, up until the most recent decades. Thus, women are mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others. As opposed to men, who have a wider variety of words in every genre and mainly action words such as _kill_ and _party_. Nevertheless, even though we do not dive into it here, men are also stereotypically represented. Instead of real-life words like _father_, _caring_, or _love_, the industry clearly prioritizes strength and an emotional void. It therefore seems like there has been no real improvement in ***how*** women, but also men, are portrayed in the movie industry. Should you lose all hope? Most definitely not!
 
 ## Final Note
 It’s been a wild ride, thank you for tagging along with us! It’s time for a rewind.

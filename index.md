@@ -193,15 +193,15 @@ There are of course limitations with this analysis. Most prevalently, we see tha
 
 As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. maybe?
 
-<label for="plotSelector">Select a Plot:</label>
-<select id="plotSelector" onchange="loadPlot()">
+<label for="plotSelector1">Select a Plot:</label>
+<select id="plotSelector1" onchange="loadPlot()">
     <option value="html_plots/interactive_plot_frequencies_Verbs.html">Verbs</option>
     <option value="html_plots/interactive_plot_frequencies_Adjectives.html">Adjectives</option>
     <option value="html_plots/interactive_plot_frequencies_Nouns.html">Nouns</option>
 </select>
 
 <style>
-    #plotSelector option:checked {
+    #plotSelector1 option:checked {
         display: none;
     }
 </style>
@@ -212,7 +212,7 @@ As we’ve seen so far, it is not only important to have more women on screen, o
 <script>
     $(document).ready(function() {
         $("#plotSelector1").val("html_plots/interactive_plot_frequencies_Verbs.html");
-        loadPlot(); // Load the selected plot
+        loadPlot();
     });
 
     function loadPlot() {
@@ -230,8 +230,8 @@ While this analysis captures the most commonly associated words, it’s importan
 
 But one last time, let’s  break it down by genres. 
 
-<label for="plotSelector">Select a Plot:</label>
-<select id="plotSelector" onchange="loadPlot()">
+<label for="plotSelector2">Select a Plot:</label>
+<select id="plotSelector2" onchange="loadPlot()">
     <option value="html_plots/rel_freq_interactive_Action.html">Action</option>
     <option value="html_plots/rel_freq_interactive_Adventure.html">Adventure</option>
     <option value="html_plots/rel_freq_interactive_Drama.html">Drama</option>
@@ -241,7 +241,7 @@ But one last time, let’s  break it down by genres.
 </select>
 
 <style>
-    #plotSelector option:checked {
+    #plotSelector2 option:checked {
         display: none;
     }
 </style>

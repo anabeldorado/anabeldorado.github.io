@@ -265,10 +265,15 @@ But one last time, let’s  break it down by genres.
   Figure 15
 </div>
 
-Each genre is in fact recognizable for example action movies with words such as _kill_ _death_ or _battle_,  or  Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_ ,_supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and  _beautiful_, and this all regadless of the genre, up until the most recent decades. Thus, women are  mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others. As opposed to men who have a wider variety of words in every genre and mainly action words like  _kill_ and  _party_.  Nevertheless, we focused on the representation of  women here, but when looking at the words associated with men, even in what should be non-stereotypical movies, they're still not words like _father_ or _caring_, but rather still the stereotypical words. It therefore seems that when looking at the overarching trend, there has been no real improvement in ***how*** women are portrayed in the movie industry. Should you lose all hope? Most definitely not! 
+Each genre is in fact recognizable for example action movies with words such as _kill_ _death_ or _battle_,  or  Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_, _supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and  _beautiful_, and this all regadless of the genre, up until the most recent decades. Thus, women are  mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others. As opposed to men who have a wider variety of words in every genre and mainly action words like  _kill_ and  _party_.  Nevertheless, we focused on the representation of  women here, but when looking at the words associated with men, even in what should be non-stereotypical movies, they're still not words like _father_ or _caring_, but rather still the stereotypical words. It therefore seems that when looking at the overarching trend, there has been no real improvement in ***how*** women are portrayed in the movie industry. Should you lose all hope? Most definitely not! 
 
-## Conclusion
+## Final Note
 It’s been a wild ride, thank you for tagging along with us! It’s time for a rewind.
+<style>
+        .pink-star {
+            color: pink;
+        }
+</style>
 
 <span class="pink-star">&#9733;</span> The representation of women is increasing, but all genres  are not made equal.
 

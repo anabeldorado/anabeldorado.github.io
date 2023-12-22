@@ -191,7 +191,7 @@ There are of course limitations with this analysis. Most prevalently, we see tha
 
 ## Hey kids, spelling is fun! - Let's look at words
 
-As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. hmm
+As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. toggle.js
 
 <label for="plotSelector">Select a Plot:</label>
 <select id="plotSelector" onchange="loadPlot()">
@@ -208,7 +208,7 @@ As we’ve seen so far, it is not only important to have more women on screen, o
 
 <iframe id="plotFrame" width="100%" height="400px" frameborder="0" src="{{ page.default_plot }}"></iframe>
 
-<script src="{{ site.baseurl }}/toggle.js"></script>
+<script src="{{ site.baseurl }}/assets/js/toggle.js"></script>
 
 <div class="left">
   Figure 14

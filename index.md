@@ -240,7 +240,7 @@ Each genre is in fact recognizable for example action movies with words such as 
 
 ## Conclusion
 It’s been a wild ride, thank you for tagging along with us! It’s time for a rewind.
-<p>This is a pink heart: <span style="color: pink;">&#x2764;&#xfe0f;</span></p> The representation of women is increasing, but all genres  are not made equal.
+<span class="pink-star">&#9733;</span> The representation of women is increasing, but all genres  are not made equal.
 
 - The industry is ageing but the age gap shows no signs of shrinking. 
 - Women want to be multifaceted and no longer want to be  mere loving, pregnant housewives. And while we have observed an increase in women main characters  the vocabulary analysis has shown little improvement of the words associated with women characters. 

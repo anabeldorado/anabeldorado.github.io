@@ -8,7 +8,7 @@ The perception and role of women in the US society has greatly evolved during th
 This data story will explore the <a href="http://www.cs.cmu.edu/~ark/personas/"><em>CMU Movie Summary Corpus</em></a> to explore how women are portrayed in Hollywood. Not only by mere representation but whether women are now being put at the forefront of storylines. It will also dive deeper into the characteristics of stereotypical movies.
 
 ## Over the decades
-The proportion of actresses over time gives us a first insight into how well the industry is representing women.  According to expert Dr. Martha Lauzen, “Despite the major disruptions in the film business over the last couple of years, onscreen gender ratios have remained relatively stable.”[^1] But what if we compare to 100 years ago, is the picture still as bleak?
+The proportion of actresses over time gives us a first insight into how well the industry is representing women. According to expert Dr. Martha Lauzen, “Despite the major disruptions in the film business over the last couple of years, onscreen gender ratios have remained relatively stable.”[^1] But what if we compare to 100 years ago, is the picture still as bleak?
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_men_women.html"></iframe>
@@ -54,7 +54,7 @@ This is what we see with the plot above. In over 40% of movies, actresses make u
 We see that all genres aren’t equal when it comes to the representation of women. On one hand we have Action, Western and Drama for which over 50% of movies have less than 25% of women in their casts. On the other, three genres seem to do slightly better than the average namely Musical, Adventure and Horror.
 
 ### Is the age gap even real? 
-> Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30. -  TIME magazine 2015[^2]
+> Male actors see their careers peak at the age of 46, female actors reach their professional pinnacles at age 30. - TIME magazine 2015[^2]
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/Average_age_actor.html"></iframe>
@@ -95,7 +95,7 @@ Having a female lead is much more meaningful than adding women only as secondary
   <a href="html_plots/main_char_ratio.html">Figure 8</a>
 </div>
 
-It is interesting to point out the initial decrease that occurred from the 1910s until the 40s. The lack of data in the 1910s and 1920s could lead to biases, only including a few movies where women portrayed main roles. The confidence interval is indeed the largest around these decades. Furthermore, it could be tempting to say that we start to see an increase starting in the 40s. However this cannot be conclusively said due to the large confidence intervals up until the 1990s.  There has been an Increase in recent decades, but we cannot be sure about when exactly this trend started. Nonetheless, this is a further insight indicating that women are being offered an increasing amount of leading roles. What events may have prompted this around the 80s?
+It is interesting to point out the initial decrease that occurred from the 1910s until the 40s. The lack of data in the 1910s and 1920s could lead to biases, only including a few movies where women portrayed main roles. The confidence interval is indeed the largest around these decades. Furthermore, it could be tempting to say that we start to see an increase starting in the 40s. However this cannot be conclusively said due to the large confidence intervals up until the 1990s. There has been an Increase in recent decades, but we cannot be sure about when exactly this trend started. Nonetheless, this is a further insight indicating that women are being offered an increasing amount of leading roles. What events may have prompted this around the 80s?
 
 <div class="withSidenote" markdown="1"> 
 
@@ -132,7 +132,7 @@ When breaking this down further by genre, we see that our top 3 genres, Musical,
 ## Can we classify all these movies?
 
 <div class="withSidenote" markdown="1">
-What do you think of when you think of a stereotypical portrayal of a woman ? Does a young pretty actress not contributing to the plot pop into your mind? Being able to classify a movie into stereotypical or non-stereotypical is very valuable in this case. By clustering movies based on the proportion of women, the proportion of women main characters and the difference in the mean ages of men and women in the cast, we were able to cluster all movies into 3 categories. A cluster of stereotypical movies, a cluster of non-stereotypical movies, and finally a cluster that falls somewhere in between.  
+What do you think of when you think of a stereotypical portrayal of a woman ? Does a young pretty actress not contributing to the plot pop into your mind? Being able to classify a movie into stereotypical or non-stereotypical is very valuable in this case. By clustering movies based on the proportion of women, the proportion of women main characters and the difference in the mean ages of men and women in the cast, we were able to cluster all movies into 3 categories. A cluster of stereotypical movies, a cluster of non-stereotypical movies, and finally a cluster that falls somewhere in between.
 
 <figure class="sidenote">
     <img src="images/cluster.png">
@@ -185,7 +185,7 @@ tend to do worse. Now how does that compare to this clustering ? Picture a pie f
   <a href="html_plots/clustering_genre_barplot.html">Figure 13</a>
 </div>
 
-Action and Western still fall into the category of stereotypical as expected by the previous analysis.  Similarly, but on the other side of the spectrum, Horror and Musical are in the  non-stereotypical cluster. Surprisingly, Drama and Adventure are not on the side we would expect. Indeed, we previously saw that Drama had low women representation, but is actually overrepresented into the non-stereotypical cluster, and Adventure has a similar trend but in the opposite direction. 
+Action and Western still fall into the category of stereotypical as expected by the previous analysis. Similarly, but on the other side of the spectrum, Horror and Musical are in the  non-stereotypical cluster. Surprisingly, Drama and Adventure are not on the side we would expect. Indeed, we previously saw that Drama had low women representation, but is actually overrepresented into the non-stereotypical cluster, and Adventure has a similar trend but in the opposite direction. 
 
 There are of course limitations with this analysis. Most prevalently, we see that romantic comedies appear in movies that have a non-stereotypical representation of women. However, women are often solely love interests in romantic comedies and are thus portrayed stereotypically. Moreover, romantic comedies usually portray heterosexual couples, so the proportion of men and women actors tends to be close to 50-50, which biases our analysis. This highlights the need to not only look at the proportion of actresses, the proportion of women character, and the age differences but to also consider other factors. More precisely, the **vocabulary** associated to female and male actors in general. This is a perfect segue into our final analysis: *The Vocabulary Analysis* (YAY!)
 
@@ -227,7 +227,7 @@ As we’ve seen so far, it is not enough to have more women on screen, or even f
 
 With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively (all genres). While this analysis captures the most commonly associated words, it’s important to note that it may miss changes in less common words, highlighting one of its caveats. We first notice that the words associated to each gender are overall quite constant throughout the decades. More striking is the contrast of words associated with men versus women. Men are highly linked to action related words such as _kill_, _save_ or _soldier_. On the other hand  women are mostly associated with everyday life type of words such as _love_, _marry_ or _family_, or with their appearance like _beautiful_ or _pretty_. So have we really moved away from the housewife representation ?
 
-**In an announcer's voice** One last time, let’s  break it down by genres!
+**In an announcer's voice** One last time, let’s break it down by genres!
 
 <label for="plotSelector2">Select a Plot:</label>
 <select id="plotSelector2" onchange="loadPlot2()">
@@ -280,7 +280,7 @@ It’s been a wild ride, thank you for tagging along with us! It’s time for a 
 
 <span class="pink-star">&#9733;</span> While the proportion of female leads is increasing, the vocabulary analysis revealed that there was little improvement in the words associated with women characters.
 
-<span class="pink-star">&#9733;</span> So should we be hopeless, not at all!  We want to leave you with a positive outlook of the future  of  Hollywood. Indeed, 2023 has been promising for the future of women in the industry. Female led movies can be massive successes when they’re  actually made by the studios. The perfect  example of this is the Barbie wave that hit us this summer. Directed by Greta Gerwig and with Margot Robie as the lead, it has been the highest grossing movie in Warner Brothers’ 100-year history with box office sales exceeding $567 million [^4]. Change is incremental and  starts  with  a  spark and  this  seems  bright enough for people to start looking. 
+So should we be hopeless, not at all! We want to leave you with a positive outlook on the future of Hollywood. Indeed, 2023 has been promising for the future of women in the industry. Female led movies can be massive successes! The perfect example of this is the Barbie wave that hit us this summer. Directed by Greta Gerwig and with Margot Robie as the lead, it has been the highest grossing movie in Warner Brothers’ 100-year history with box office sales exceeding $567 million [^4]. Change is incremental and starts with sparks. Who knows... maybe we're just about to light a fire.
 
 # References 
 [^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)

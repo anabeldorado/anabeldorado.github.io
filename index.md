@@ -108,7 +108,7 @@ It is interesting to point out the initial decrease that occurred from the 1910s
 </figure>
 </div>
 
-We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women, with a 95% confidence interval going up to 42.9%. According to the San Diego State University Center for the Study of Women in Television and Film, females comprised 43.8% of major characters in 2022. [^3] We are not far off! 
+We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women, with a 95% confidence interval going up to 42.9%. According to the San Diego State University Center for the Study of Women in Television and Film, women comprised 43.8% of major characters in 2022. [^3] We are not far off! 
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_main_characters_per_genre.html"></iframe>
@@ -171,7 +171,7 @@ From 1920 up to 2020, there seem to always have been a bigger percentage of movi
 
 <figure class="sidenote">
     <img src="images/Janet_Reno-us-Portrait.jpeg">
-    <figcaption><a href="https://en.wikipedia.org/wiki/Janet_Reno"><em>Figure 13</em></a>Janet Reno, first female attorney general (1993).</figcaption>
+    <figcaption><a href="https://en.wikipedia.org/wiki/Janet_Reno"><em>Figure 13.</em></a> Janet Reno, first female attorney general (1993).</figcaption>
 </figure>
 </div>
 

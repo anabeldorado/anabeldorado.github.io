@@ -190,23 +190,32 @@ Action and Western still fall into the category of stereotypical as expected by 
 
 There are of course limitations with this analysis. Most prevalently, we see that romantic comedies appear in movies that have a non-stereotypical representation of women. It is however well-known that in general in romantic comedies women are solely love interests and are thus portrayed stereotypically. This highlights the need to not only look at the proportion of actresses, the proportion of women character and the age difference but consider other factors. More precisely **the vocabulary linked** to female and male actors in general. This is a perfect segue into our final analysis: *The Vocabulary Analysis*
 
-yaaaaaaaaa
+## Can we classify all these movies?
+
+As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main character.
+
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="1000" height="550" src="html_plots/combined_word_freq_plots.html"></iframe>
 </object>
 
-yooooo 
+With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively in all genres combined. We first  notice that these ratios seem to be quite constant through time. More striking is the contrast of words associated with men versus  women.  Men are highly linked to action related words such as kill, save or soldier. On the other hand  women are mostly associated with everyday life type of words such as love, marry or family or appearance like beautiful or pretty. So have we really moved away  from the housewise representation ?  It seems that women are still very  much associated with 
+While this analysis captures the most commonly associated words, it’s important to note that it may  miss changes in less common words, highlighting one of its caveats. 
+
+But one last time,  let’s  break it down by genres. 
+
 
 <div class="left">
   <a href="html_plots/combined_word_freq_plots.html">Figure 14</a>
 </div>
 
-hmmm
-
 <div class="left">
   <a href="combined_plots.html" target="_blank">Figure 15 (Combined)</a>
 </div>
+
+Each genre is in fact recognizable for example action movies with words such as _kill_ _death_ or _battle_,  or  Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_ ,_supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_and  _beautiful_, and this all regadless of the genre, up until the most recent decades. Thus, women are  mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others.
+As opposed to men who have a wider variety of words in every genre and mainly action words like  _kill_ and  _party_.  Nevertheless, the words they are associated with can be considered stereotypical as well as even in non-stereotypical movies men are not associated with words that are usually associated with women.
+ Drama also horror
 
 
 # References 

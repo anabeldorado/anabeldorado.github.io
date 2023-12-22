@@ -98,9 +98,16 @@ Having a women lead is much more meaningful than adding only female secondary ch
 
 It is interesting to point out the initial decrease that occurred from the 1910s until the 40s.  The lack of data in the earliest decades could bias the original two decades (10s and 20s), only including a few movies where women portrayed main roles. The confidence interval is indeed the largest sound these decades. Furthermore, it could be tempting to say that we start to see an increase starting in the 40s. However this cannot be conclusively said due to the large confidence intervals up until the 1990s.  There has been an Increase in recent decades, but we cannot be sure exactly when this trend started. Nonetheless this is a further insight indicating that women are being offered an increasing amount of leading roles. What events may have prompted this around the 80s?
 
+<div class="withSidenote" markdown="1"> 
+
 - 1981 :  Sandra Day O’Connor is sworn in by President Ronald Reagan as the first woman to serve in the U.S. Supreme Court. She retired in 2006, after serving for 24 years.
 - 1983 :  Flying on the Space Shuttle Challenger, Sally Ride becomes the first American woman in space.
 - 1984 :  Democratic presidential nominee Walter Mondale names U.S. Rep. Geraldine Ferraro (N.Y.) as his running mate, making her the first woman vice president nominee by a major party.
+<figure class="sidenote">
+<img src="images/Sandra_day_oconnor.jpeg">
+<figcaption><a href="https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor"><em>Figure 6.</em></a> Sandra Day O'Connor being sworn in by Chief Justice Warren Burger. From the US National Archive. </figcaption>
+</figure>
+</div>
 
 We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women, with a 95% confidence interval going up to 42.9% According to the San Diego State University Center for the Study of Women in Television and Film, females comprised 43.8% of major characters in 2022. [^3] We are not far off! 
 

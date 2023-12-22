@@ -103,8 +103,8 @@ It is interesting to point out the initial decrease that occurred from the 1910s
 - 1983 :  Flying on the Space Shuttle Challenger, Sally Ride becomes the first American woman in space.
 - 1984 :  Democratic presidential nominee Walter Mondale names Geraldine Ferraro (U.S. House of Representatives) as his running mate, making her the first woman vice president nominee by a major party.
 <figure class="sidenote">
-<img src="images/Sandra_day_oconnor.jpeg">
-<figcaption><a href="https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor"><em>Figure 9.</em></a> Sandra Day O'Connor being sworn in by Chief Justice Warren Burger. From the US National Archive. </figcaption>
+  <img src="images/Sandra_day_oconnor.jpeg">
+  <figcaption><a href="https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor"><em>Figure 9.</em></a> Sandra Day O'Connor being sworn in by Chief Justice Warren Burger. From the US National Archive. </figcaption>
 </figure>
 </div>
 
@@ -165,7 +165,15 @@ What has been the evolution of the release of these 2 types of movies you may as
   <a href="html_plots/fraction_stereo_movies_per_decades.html">Figure 12</a>
 </div>
 
-From 1920 up to 2020, there seem to always have been a bigger percentage of movies produced that had a stereotypical depiction of women. In the 70s the proportion of stereotypical movies was almost 50% and is the highest in the years analysed. Of course, due to the large confidence intervals that result should be taken with a grain of salt. Interestingly, the proportion of non-stereotypical movies was relatively stable throughout the decades until 2000. From 2000 to 2020 we see a strong increase of the proportion of movies with a non-stereotypical depiction of women to reach approximately the same percentage as stereotypical movies. (YAY!) Going back to our beloved timeline, multiple events where women ascended to a position of power could have prompted this increase, such as the first female attorney, the first female secretary of state or the first female speaker of the house.
+<div class="withSidenote" markdown="1">
+
+From 1920 up to 2020, there seem to always have been a bigger percentage of movies produced that had a stereotypical depiction of women. In the 70s the proportion of stereotypical movies was almost 50% and is the highest in the years analysed. Of course, due to the large confidence intervals that result should be taken with a grain of salt. Interestingly, the proportion of non-stereotypical movies was relatively stable throughout the decades until 2000. From 2000 to 2020 we see a strong increase of the proportion of movies with a non-stereotypical depiction of women to reach approximately the same percentage as stereotypical movies. (YAY!) Going back to our beloved timeline, multiple events where women ascended to a position of power could have prompted this increase, such as the first female attorney general, the first female secretary of state or the first female speaker of the house.
+
+<figure class="sidenote">
+    <img src="images/Janet_Reno-us-Portrait.jpeg">
+    <figcaption><a href="https://en.wikipedia.org/wiki/Janet_Reno"><em>Figure 13</em></a>Janet Reno, first female attorney general (1993).</figcaption>
+</figure>
+</div>
 
 Now that we have a way of categorising these movies and we’ve seen the release trends, what genres are overrepresented into our two clusters of interest ? Reminder that previously we saw that 
 - Musical
@@ -184,7 +192,7 @@ tend to do worse. Now how does that compare to this clustering ? Picture a pie f
 </object>
 
 <div class="left">
-  <a href="html_plots/clustering_genre_barplot.html">Figure 13</a>
+  <a href="html_plots/clustering_genre_barplot.html">Figure 14</a>
 </div>
 
 Action and Western still fall into the category of stereotypical as expected by the previous analysis. Similarly, but on the other side of the spectrum, Horror and Musical are in the  non-stereotypical cluster. Surprisingly, Drama and Adventure are not on the side we would expect. Indeed, we previously saw that Drama had low women representation, but is actually overrepresented into the non-stereotypical cluster, and Adventure has a similar trend but in the opposite direction. 
@@ -224,7 +232,7 @@ As we’ve seen so far, it is not enough to have more women on screen, or even f
 </script>
 
 <div class="left">
-  Figure 14
+  Figure 15
 </div>
 
 With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively (all genres). While this analysis captures the most commonly associated words, it’s important to note that it may miss changes in less common words, highlighting one of its caveats. We first notice that the words associated to each gender are overall quite constant throughout the decades. More striking is the contrast of words associated with men versus women. Men are highly linked to action related words such as _kill_, _save_ or _soldier_. On the other hand  women are mostly associated with everyday life type of words such as _love_, _marry_ or _family_, or with their appearance like _beautiful_ or _pretty_. So have we really moved away from the housewife representation ?
@@ -263,7 +271,7 @@ With this visualisation we can observe the top 5 associated verbs, nouns and adj
 </script>
 
 <div class="left">
-  Figure 15
+  Figure 16
 </div>
 
 We analyse the 3 most and 3 least stereotypical genres identified by our clustering analysis (Figure 13) and each genre is easily recognizable. For example, action movies with words such as _kill_, _death_ or _battle_, or Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_, _supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and _beautiful_, regardless of the genre, up until the most recent decades. Thus, women are mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others. As opposed to men, who have a wider variety of words in every genre and mainly action words such as _kill_ and _party_. Nevertheless, even though we do not dive into it here, men are also stereotypically represented. Instead of real-life words like _father_, _caring_, or _love_, the industry clearly prioritizes strength and an emotional void. It therefore seems like there has been no real improvement in ***how*** women, but also men, are portrayed in the movie industry.

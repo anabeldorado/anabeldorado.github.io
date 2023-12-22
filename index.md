@@ -41,7 +41,7 @@ Nevertheless, this result doesn't mean that each movie has 30-40% of women in th
   <a href="html_plots/movie_proportions.html">Figure 3</a>
 </div>
 
-This is in fact what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while Figure 1 could lead us to believe that most movies have a 30-40% female cast, Figure 3 may more effectively illustrate what actresses are experiencing during their work. Nonetheless, from 2000 onwards there is a growing number of movies with a majority of women actors in their cast. Lets break this trend down further by looking into some individual genres.
+This is in fact what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while Figure 1 could lead us to believe that most movies have a 30-40% female cast, Figure 3 may more effectively illustrate what actresses are experiencing during their work. Nonetheless, from 2000 onwards, there is a growing number of movies with a majority of women actors in their cast. Let's break this trend down further by looking into some individual genres.
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions_percentages_actress_by_genre.html"></iframe>
@@ -85,7 +85,7 @@ On average, female actors are **significantly** younger than men at any point th
 Now all of this does not tell us in any way **how** women are portrayed in these movies. We've seen that women's representation is increasing but what kind of representation ? 
 
 ## We want major roles!
-Having a women lead is much more meaningful than adding only female secondary characters. It is therefore crucial to be able to differentiate the two. 
+Having a female lead is much more meaningful than adding women only as secondary characters. It is therefore crucial to be able to differentiate the two. 
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/main_char_ratio.html"></iframe>
@@ -95,22 +95,22 @@ Having a women lead is much more meaningful than adding only female secondary ch
   <a href="html_plots/main_char_ratio.html">Figure 8</a>
 </div>
 
-It is interesting to point out the initial decrease that occurred from the 1910s until the 40s.  The lack of data in the earliest decades could bias the original two decades (10s and 20s), only including a few movies where women portrayed main roles. The confidence interval is indeed the largest sound these decades. Furthermore, it could be tempting to say that we start to see an increase starting in the 40s. However this cannot be conclusively said due to the large confidence intervals up until the 1990s.  There has been an Increase in recent decades, but we cannot be sure exactly when this trend started. Nonetheless this is a further insight indicating that women are being offered an increasing amount of leading roles. What events may have prompted this around the 80s?
+It is interesting to point out the initial decrease that occurred from the 1910s until the 40s. The lack of data in the 1910s and 1920s could lead to biases, only including a few movies where women portrayed main roles. The confidence interval is indeed the largest around these decades. Furthermore, it could be tempting to say that we start to see an increase starting in the 40s. However this cannot be conclusively said due to the large confidence intervals up until the 1990s.  There has been an Increase in recent decades, but we cannot be sure about when exactly this trend started. Nonetheless, this is a further insight indicating that women are being offered an increasing amount of leading roles. What events may have prompted this around the 80s?
 
 <div class="withSidenote" markdown="1"> 
 
 - 1981 :  Sandra Day O’Connor is sworn in by President Ronald Reagan as the first woman to serve in the U.S. Supreme Court. She retired in 2006, after serving for 24 years.
 - 1983 :  Flying on the Space Shuttle Challenger, Sally Ride becomes the first American woman in space.
-- 1984 :  Democratic presidential nominee Walter Mondale names U.S. Rep. Geraldine Ferraro (N.Y.) as his running mate, making her the first woman vice president nominee by a major party.
+- 1984 :  Democratic presidential nominee Walter Mondale names Geraldine Ferraro (U.S. House of Representatives) as his running mate, making her the first woman vice president nominee by a major party.
 <figure class="sidenote">
 <img src="images/Sandra_day_oconnor.jpeg">
 <figcaption><a href="https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor"><em>Figure 9.</em></a> Sandra Day O'Connor being sworn in by Chief Justice Warren Burger. From the US National Archive. </figcaption>
 </figure>
 </div>
 
-We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women, with a 95% confidence interval going up to 42.9% According to the San Diego State University Center for the Study of Women in Television and Film, females comprised 43.8% of major characters in 2022. [^3] We are not far off! 
+We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women, with a 95% confidence interval going up to 42.9%. According to the San Diego State University Center for the Study of Women in Television and Film, females comprised 43.8% of major characters in 2022. [^3] We are not far off! 
 
-When breaking this down futher by genre we see that our top 3 genres, Musical, Adventure and Horror, reach similar or even higher ratios than overall. Unsuprisingly, Drama, Western and Action are lagging behind.
+When breaking this down further by genre, we see that our top 3 genres, Musical, Adventure and Horror, reach similar or even higher ratios than overall. Unsurprisingly, Drama, Western and Action are lagging behind.
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_main_characters_per_genre.html"></iframe>
 </object>
@@ -132,7 +132,7 @@ When breaking this down futher by genre we see that our top 3 genres, Musical, A
 ## Can we classify all these movies?
 
 <div class="withSidenote" markdown="1">
-What do you think of when you think of a stereotypical portrayal of a woman ? Does a young pretty actress not contributing to the plot pop into your mind? Being able to classify a movie into stereotypical or non-stereotypical is very valuable in this case. By clustering movies based on the proportion of women, the proportion of women main characters and the difference in the mean ages of men and women in the cast, we were able to cluster all movies into 3 categories. A cluster of stereotypical movies (turquoise), a cluster of non-stereotypical movies (purple), and finally a cluster that falls somewhere in between, not extreme enough to go into either category (yellow).  
+What do you think of when you think of a stereotypical portrayal of a woman ? Does a young pretty actress not contributing to the plot pop into your mind? Being able to classify a movie into stereotypical or non-stereotypical is very valuable in this case. By clustering movies based on the proportion of women, the proportion of women main characters and the difference in the mean ages of men and women in the cast, we were able to cluster all movies into 3 categories. A cluster of stereotypical movies, a cluster of non-stereotypical movies, and finally a cluster that falls somewhere in between.  
 
 <figure class="sidenote">
     <img src="images/cluster.png">
@@ -152,6 +152,10 @@ Purple Cluster has a higher proportion of women in the cast, also as main charac
 <div class="left">
   Table 1
 </div>
+
+- Cluster 0: Non-Stereotypical
+- Cluster 1: Stereotypical
+- Cluster 2: Somewhere in between
 
 What has been the evolution of the release of these 2 types of movies you may ask! 
 

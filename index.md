@@ -171,7 +171,7 @@ Now that we have a way of categorising these movies and we’ve seen the release
 - Horror
   
 genres tended to do better in terms of women proportion in their cast. Whereas 
-- Action 
+- Action
 - Western
 - Drama
   
@@ -227,7 +227,7 @@ As we’ve seen so far, it is not enough to have more women on screen, or even f
 
 With this visualisation we can observe the top 5 associated verbs, nouns and adjectives for men and women respectively (all genres). While this analysis captures the most commonly associated words, it’s important to note that it may miss changes in less common words, highlighting one of its caveats. We first notice that the words associated to each gender are overall quite constant throughout the decades. More striking is the contrast of words associated with men versus women. Men are highly linked to action related words such as _kill_, _save_ or _soldier_. On the other hand  women are mostly associated with everyday life type of words such as _love_, _marry_ or _family_, or with their appearance like _beautiful_ or _pretty_. So have we really moved away from the housewife representation ?
 
-**In an announcers voice** One last time, let’s  break it down by genres!
+**In an announcer's voice** One last time, let’s  break it down by genres!
 
 <label for="plotSelector2">Select a Plot:</label>
 <select id="plotSelector2" onchange="loadPlot2()">
@@ -264,7 +264,7 @@ With this visualisation we can observe the top 5 associated verbs, nouns and adj
   Figure 15
 </div>
 
-Each genre is easily recognizable. For example, action movies with words such as _kill_, _death_ or _battle_, or Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_, _supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and _beautiful_, regardless of the genre, up until the most recent decades. Thus, women are mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others. As opposed to men, who have a wider variety of words in every genre and mainly action words such as _kill_ and _party_. Nevertheless, even though we do not dive into it here, men are also stereotypically represented. Instead of real-life words like _father_, _caring_, or _love_, the industry clearly prioritizes strength and an emotional void. It therefore seems like there has been no real improvement in ***how*** women, but also men, are portrayed in the movie industry. Should you lose all hope? Most definitely not!
+We analyse the 3 most and 3 least stereotypical genres identified by our clustering analysis (Figure 13) and each genre is easily recognizable. For example, action movies with words such as _kill_, _death_ or _battle_, or Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_, _supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and _beautiful_, regardless of the genre, up until the most recent decades. Thus, women are mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others. As opposed to men, who have a wider variety of words in every genre and mainly action words such as _kill_ and _party_. Nevertheless, even though we do not dive into it here, men are also stereotypically represented. Instead of real-life words like _father_, _caring_, or _love_, the industry clearly prioritizes strength and an emotional void. It therefore seems like there has been no real improvement in ***how*** women, but also men, are portrayed in the movie industry.
 
 ## Final Note
 It’s been a wild ride, thank you for tagging along with us! It’s time for a rewind.
@@ -274,13 +274,13 @@ It’s been a wild ride, thank you for tagging along with us! It’s time for a 
         }
 </style>
 
-<span class="pink-star">&#9733;</span> The representation of women is increasing, but all genres  are not made equal.
+<span class="pink-star">&#9733;</span> The representation of women is increasing, but all genres are not made equal.
 
-<span class="pink-star">&#9733;</span> The industry is ageing but the age gap shows no signs of shrinking. 
+<span class="pink-star">&#9733;</span> The industry is aging but the age gap shows no signs of shrinking. 
 
-<span class="pink-star">&#9733;</span> Women want to be multifaceted and no longer want to be  mere loving, pregnant housewives. And while we have observed an increase in women main characters  the vocabulary analysis has shown little improvement of the words associated with women characters. 
+<span class="pink-star">&#9733;</span> While the proportion of female leads is increasing, the vocabulary analysis revealed that there was little improvement in the words associated with women characters.
 
-<span class="pink-star">&#9733;</span> So should we be hopeless, not at all!  We want to leave you with a positive outlook of the future  of  Hollywood. Indeed this 2023  year has been promising for the future of women in the industry. Female  led movies can be massive successes when they’re  actually made by the studios. The perfect  example of this is the Barbie wave that hit us this summer. Directed by Greta Gerwig and with Margot Robie as the lead, it has been the highest grossing movie in Warner Brothers’ 100-year history with box office sales exceeding $567 million. [^4] . Change is incremental and  starts  with  a  spark and  this  seems  bright enough for people to start looking. 
+<span class="pink-star">&#9733;</span> So should we be hopeless, not at all!  We want to leave you with a positive outlook of the future  of  Hollywood. Indeed, 2023 has been promising for the future of women in the industry. Female led movies can be massive successes when they’re  actually made by the studios. The perfect  example of this is the Barbie wave that hit us this summer. Directed by Greta Gerwig and with Margot Robie as the lead, it has been the highest grossing movie in Warner Brothers’ 100-year history with box office sales exceeding $567 million [^4]. Change is incremental and  starts  with  a  spark and  this  seems  bright enough for people to start looking. 
 
 # References 
 [^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)

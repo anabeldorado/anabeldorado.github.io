@@ -175,7 +175,7 @@ genres tended to do better in terms of women proportion in their cast. Whereas
 - Western
 - Drama
   
-tend to do worse. Now how does that compare to this clustering ? When looking at the difference of ratios between the non-stereotypical and the stereotypical movies, we obtain the next plot. If the difference is negative it means that there is a higher proportion of this movie genre in the stereotypical movies. Inversely, if the difference is positive, it means that there is a higher proportion of this movie genre in the non-stereotypical movies. We thresholded the graph to only see movies that had a difference bigger than 0.01. We assumed that a smaller difference was too small to assume a real difference between the clusters.
+tend to do worse. Now how does that compare to this clustering ? Picture a pie for each cluster. Then imagine that the pies are not the same size. If the difference in Figure 13 is negative, it means that the genre makes up a bigger piece of the stereotypical pie than of the non-stereotypical pie. In technical terms, we normalized the genre counts in each cluster before subtracting. Inversely, if the difference is positive, it means that there is a higher proportion of this movie genre in the non-stereotypical movies. We did not show the genres with an absolute difference smaller than 0.01. 
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/clustering_genre_barplot.html"></iframe>
@@ -187,7 +187,7 @@ tend to do worse. Now how does that compare to this clustering ? When looking at
 
 Action and Western still fall into the category of stereotypical as expected by the previous analysis.  Similarly, but on the other side of the spectrum, Horror and Musical are in the  non-stereotypical cluster. Surprisingly, Drama and Adventure are not on the side we would expect. Indeed, we previously saw that Drama had low women representation, but is actually overrepresented into the non-stereotypical cluster, and Adventure has a similar trend but in the opposite direction. 
 
-There are of course limitations with this analysis. Most prevalently, we see that romantic comedies appear in movies that have a non-stereotypical representation of women. It is however well-known that in general in romantic comedies women are solely love interests and are thus portrayed stereotypically. This highlights the need to not only look at the proportion of actresses, the proportion of women character and the age difference but consider other factors. More precisely **the vocabulary linked** to female and male actors in general. This is a perfect segue into our final analysis: *The Vocabulary Analysis*
+There are of course limitations with this analysis. Most prevalently, we see that romantic comedies appear in movies that have a non-stereotypical representation of women. However, it is well-known that in general in romantic comedies women are solely love interests and are thus portrayed stereotypically. This highlights the need to not only look at the proportion of actresses, the proportion of women character and the age difference but consider other factors. More precisely **the vocabulary linked** to female and male actors in general. This is a perfect segue into our final analysis: *The Vocabulary Analysis*
 
 ## Hey kids, spelling is fun! - Let's look at words
 

@@ -191,13 +191,14 @@ There are of course limitations with this analysis. Most prevalently, we see tha
 
 ## Hey kids, spelling is fun! - Let's look at words
 
-As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. YAAAAAAAAAAAA
+As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. YO
+
 
 <label for="plotSelector">Select a Plot:</label>
 <select id="plotSelector" onchange="loadPlot()">
-    <option value="html_plots/interactive_plot_frequencies_Verbs.html">Verbs</option>
-    <option value="html_plots/interactive_plot_frequencies_Adjectives.html">Adjectives</option>
-    <option value="html_plots/interactive_plot_frequencies_Verbs.html">Nouns</option>
+    <option value="plot1.html">Plot 1</option>
+    <option value="plot2.html">Plot 2</option>
+    <option value="plot3.html">Plot 3</option>
 </select>
 
 <style>
@@ -205,6 +206,10 @@ As we’ve seen so far, it is not only important to have more women on screen, o
         display: none;
     }
 </style>
+
+<iframe id="plotFrame" width="100%" height="400px" frameborder="0"></iframe>
+
+<script src="{{ site.baseurl }}/toggle.js"></script>
 
 <div class="left">
   Figure 14

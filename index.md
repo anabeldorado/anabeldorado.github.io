@@ -27,7 +27,7 @@ Figure 1 shows us that the ratio of women in Hollywood has remained fairly const
     <img src="images/Equal_Pay_Act.jpg">
     <figcaption><a href="https://en.wikipedia.org/wiki/Equal_Pay_Act_of_1963"><em>Figure 2.</em></a> Signing of the Equal Pay Act of 1963.</figcaption>
 </figure>
-</div>
+</div> 
 
 ### Breakdown of women's representation in movies
 

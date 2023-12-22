@@ -185,7 +185,7 @@ genres tended to do better in terms of women proportion in their cast. Whereas
 - Western
 - Drama
   
-tend to do worse. Now how does that compare to this clustering ? Picture a pie for each cluster. Then imagine that the pies are not the same size. If the difference in Figure 13 is negative, it means that the genre makes up a bigger piece of the stereotypical pie than of the non-stereotypical pie. In technical terms, we normalized the genre counts in each cluster before subtracting. Inversely, if the difference is positive, it means that there is a higher proportion of this movie genre in the non-stereotypical movies. We did not show the genres with an absolute difference smaller than 0.01. 
+tended to do worse. Now how does that compare to this clustering ? Picture a pie for each cluster. Then imagine that the pies are not the same size. If the difference in Figure 13 is negative, it means that the genre makes up a bigger piece of the stereotypical pie than of the non-stereotypical pie. In technical terms, we normalized the genre counts in each cluster before subtracting. Inversely, if the difference is positive, it means that there is a higher proportion of this movie genre in the non-stereotypical movies. We did not show the genres with an absolute difference smaller than 0.01. 
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/clustering_genre_barplot.html"></iframe>

@@ -5,7 +5,7 @@ cover-img: images/women-collage.png
 ---
 The perception and role of women in the US society has greatly evolved during the past century with women being granted a myriad of new rights. Simultaneously, their perception has also evolved, shifting away from mere housewives. Movies are often seen as a reflection of society, moving along with its ebbs and flows. But has this specific social movement bled into the entertainment industry? Has the depiction of women progressed alongside important milestones in the Feminist movement? Or on the contrary, do stereotypes around women still prevail in Hollywood?
 
-This data story will explore the <a href="http://www.cs.cmu.edu/~ark/personas/"><em>CMU Movie Summary Corpus</em></a> to explore how women are portrayed in Hollywood. Not only by mere representation but whether women are now being put at the forefront of storylines. It will also dive deeper into the characteristics of stereotypical movies.
+This data story will explore the <a href="http://www.cs.cmu.edu/~ark/personas/"><em>CMU Movie Summary Corpus</em></a> to explore how women are portrayed in Hollywood.
 
 ## Over the decades
 The proportion of actresses over time gives us a first insight into how well the industry is representing women. According to expert Dr. Martha Lauzen, “Despite the major disruptions in the film business over the last couple of years, onscreen gender ratios have remained relatively stable.”[^1] But what if we compare to 100 years ago, is the picture still as bleak?
@@ -41,7 +41,7 @@ Nevertheless, this result doesn't mean that each movie has 30-40% of women in th
   <a href="html_plots/movie_proportions.html">Figure 3</a>
 </div>
 
-This is what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while Figure 1 could lead us to believe that most movies have a 30-40% female cast, Figure 3 may more effectively illustrate what actresses are experiencing during their work. Nonetheless, from 2000 onwards, there is a growing number of movies with a majority of women actors in their cast. Let's break this trend down further by looking into some individual genres.
+This is what we see with the plot above. In over 40% of movies, actresses make up less than 25% of the cast, meaning that they will spend much of their career outnumbered 3-1 by their male counterparts. Further, 85% of movies have less than 50% of actresses, showing the rarity of female majority casts. So while Figure 1 could lead us to believe that most movies have a 30-40% female cast, Figure 3 may more effectively illustrate what actresses are experiencing during their work. Nonetheless, from 2000 onwards, there is a growing number of movies with a majority of women actors in their cast. Let's break this trend down further by looking into some individual movie genres.
 
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/movie_proportions_percentages_actress_by_genre.html"></iframe>
@@ -66,7 +66,7 @@ We see that all genres aren’t equal when it comes to the representation of wom
 
 <div class="withSidenote" markdown="1"> 
 
-On average, female actors are **significantly** younger than men at any point throughout the last century. This clearly emphasises the age gap in the industry. Interestingly, the average age of actors increases over time regardless of gender, potentially reflecting the long career span of actors (we see you Judi Dench, keep slayin). However, even throughout this maturing of the industry, the average age gap does not get any smaller. Have a go playing around with this next animation, showing the complete breakdown of actors' and actresses' ages throughout the decades!
+On average, female actors are **significantly** younger than men at any point throughout the last century. This clearly emphasises the age gap in the industry. Interestingly, the average age of actors increases over time regardless of gender, potentially reflecting the long career span of actors (we see you Judi Dench, keep slayin'). However, even throughout this maturing of the industry, the average age gap does not get any smaller. Have a go playing around with this next animation, showing the complete breakdown of actors' and actresses' ages throughout the decades!
 
 <figure class="sidenote">
   <img src="images/Judi_Dench_1959.jpeg">
@@ -95,11 +95,11 @@ Having a female lead is much more meaningful than adding women only as secondary
   <a href="html_plots/main_char_ratio.html">Figure 8</a>
 </div>
 
-It is interesting to point out the initial decrease that occurred from the 1910s until the 40s. The lack of data in the 1910s and 1920s could lead to biases, only including a few movies where women portrayed main roles. The confidence interval is indeed the largest around these decades. Furthermore, it could be tempting to say that we start to see an increase starting in the 40s. However this cannot be conclusively said due to the large confidence intervals up until the 1990s. There has been an Increase in recent decades, but we cannot be sure about when exactly this trend started. Nonetheless, this is a further insight indicating that women are being offered an increasing amount of leading roles. What events may have prompted this around the 80s?
+It is interesting to point out the initial decrease that occurred from the 1910s until the 40s. The lack of data in the 1910s and 1920s could lead to biases, only including a few movies where women portrayed main roles. The confidence interval is indeed the largest around these decades. Furthermore, it could be tempting to say that we start to see an increase starting in the 40s. However this cannot be conclusively said due to the large confidence intervals up until the 1990s. There has been an increase in female main characters in recent decades, but we cannot be sure about when exactly this trend started. Assuming the increase started in the 90s, what events in the 80s could have prompted it?
 
 <div class="withSidenote" markdown="1"> 
 
-- 1981 :  Sandra Day O’Connor is sworn in by President Ronald Reagan as the first woman to serve in the U.S. Supreme Court. She retired in 2006, after serving for 24 years.
+- 1981 :  Sandra Day O’Connor is sworn in by President Ronald Reagan as the first woman to serve in the U.S. Supreme Court.
 - 1983 :  Flying on the Space Shuttle Challenger, Sally Ride becomes the first American woman in space.
 - 1984 :  Democratic presidential nominee Walter Mondale names Geraldine Ferraro (U.S. House of Representatives) as his running mate, making her the first woman vice president nominee by a major party.
 <figure class="sidenote">
@@ -110,7 +110,6 @@ It is interesting to point out the initial decrease that occurred from the 1910s
 
 We thus see women accessing political positions that were so far only occupied by men. Moreover, this decade saw the first American into space. Seeing women accessing jobs that previously seemed out of reach may have impacted society. Therefore, as Hollywood picked up on these cues and wanting to reflect the advancement of mentalities, it portrayed more women in main character roles. In 2022, our analysis suggests that 41.1% of main characters are women, with a 95% confidence interval going up to 42.9%. According to the San Diego State University Center for the Study of Women in Television and Film, females comprised 43.8% of major characters in 2022. [^3] We are not far off! 
 
-When breaking this down further by genre, we see that our top 3 genres, Musical, Adventure and Horror, reach similar or even higher ratios than overall. Unsurprisingly, Drama, Western and Action are lagging behind.
 <object>
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550" src="html_plots/proportion_main_characters_per_genre.html"></iframe>
 </object>
@@ -118,6 +117,9 @@ When breaking this down further by genre, we see that our top 3 genres, Musical,
 <div class="left">
   <a href="html_plots/proportion_main_characters_per_genre.html">Figure 10</a>
 </div>
+
+When breaking this down further into genres, we see that Musical, Adventure and Horror reach similar or even higher ratios than overall while Drama, Western and Action are lagging behind.
+
 
 ***If you’ve made it so far, that’s great! What have we learned?***
 

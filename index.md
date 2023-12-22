@@ -123,10 +123,10 @@ When breaking this down futher by genre we see that our top 3 genres, Musical, A
 
 &#x2713; The kind of representation matters, and we do see an increase in women main character roles
 
-## Clustering of movies
+## Can we classify all these movies?
 
 <div class="withSidenote" markdown="1">
-What do you think of when you think of a stereotypical portrayal of a woman ? Does a young pretty actress not contributing to the plot pop into your mind? Being able to classify a movie into stereotypical or non-stereotypical is very valuable in this case. By clustering movies based on the proportion of women, the proportion of women main characters and the difference in the mean ages of men and women in the cast, we were able to cluster all movies into 3 categories. A cluster of stereotypical movies (turquoise), a cluster of non-stereotypical movies (purple), and finally a cluster that falls somewhere in between, not extreme enough to fall into either category (yellow).  
+What do you think of when you think of a stereotypical portrayal of a woman ? Does a young pretty actress not contributing to the plot pop into your mind? Being able to classify a movie into stereotypical or non-stereotypical is very valuable in this case. By clustering movies based on the proportion of women, the proportion of women main characters and the difference in the mean ages of men and women in the cast, we were able to cluster all movies into 3 categories. A cluster of stereotypical movies (turquoise), a cluster of non-stereotypical movies (purple), and finally a cluster that falls somewhere in between, not extreme enough to go into either category (yellow).  
 
 <figure class="sidenote">
     <img src="images/cluster.png">

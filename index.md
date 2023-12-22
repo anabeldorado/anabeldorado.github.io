@@ -118,7 +118,7 @@ We thus see women accessing political positions that were so far only occupied b
   <a href="html_plots/proportion_main_characters_per_genre.html">Figure 10</a>
 </div>
 
-When breaking this down further into genres, we see that Musical, Adventure and Horror reach similar or even higher ratios than overall while Drama, Western and Action are lagging behind.
+When breaking this down further into genres, we see that Adventure and Horror reach similar or even higher ratios than the average while Drama and Action are lagging behind. We cannot draw conclusions on Musical and Western due to their large confidence intervals.
 
 
 ***If you’ve made it so far, that’s great! What have we learned?***

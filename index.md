@@ -105,7 +105,7 @@ It is interesting to point out the initial decrease that occurred from the 1910s
 - 1984 :  Democratic presidential nominee Walter Mondale names U.S. Rep. Geraldine Ferraro (N.Y.) as his running mate, making her the first woman vice president nominee by a major party.
 <figure class="sidenote">
 <img src="images/Sandra_day_oconnor.jpeg">
-<figcaption><a href="https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor"><em>Figure 6.</em></a> Sandra Day O'Connor being sworn in by Chief Justice Warren Burger. From the US National Archive. </figcaption>
+<figcaption><a href="https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor"><em>Figure 9.</em></a> Sandra Day O'Connor being sworn in by Chief Justice Warren Burger. From the US National Archive. </figcaption>
 </figure>
 </div>
 
@@ -117,7 +117,7 @@ When breaking this down futher by genre we see that our top 3 genres, Musical, A
 </object>
 
 <div class="left">
-  <a href="html_plots/proportion_main_characters_per_genre.html">Figure 9</a>
+  <a href="html_plots/proportion_main_characters_per_genre.html">Figure 10</a>
 </div>
 
 ***If you’ve made it so far, that’s great! What have we learned?***
@@ -137,7 +137,7 @@ What do you think of when you think of a stereotypical portrayal of a woman ? Do
 
 <figure class="sidenote">
     <img src="images/cluster.png">
-    <figcaption>Figure 10. Clustering of Stereotypical and non stereotypical movies.</figcaption>
+    <figcaption>Figure 11. Clustering of Stereotypical and non stereotypical movies.</figcaption>
 </figure>
 </div>
 
@@ -161,7 +161,7 @@ What has been the evolution of the release of these 2 types of movies you may as
 </object>
 
 <div class="left">
-  <a href="html_plots/fraction_stereo_movies_per_decades.html">Figure 11</a>
+  <a href="html_plots/fraction_stereo_movies_per_decades.html">Figure 12</a>
 </div>
 
 From 1920 up to 2020, there seem to always have been a bigger percentage of movies produced that had a stereotypical depiction of women. In the 70s the proportion of stereotypical movies was almost 50% and is the highest in the years analysed. Of course, due to the large confidence intervals that result should be taken with some precaution. Interestingly, the proportion of non-stereotypical movies was relatively stable throughout the decades until 2000. From 2000 to 2020 we see a strong increase of the proportion of movies with a non-stereotypical depiction of women to reach approximately the same percentage as stereotypical movies. (YAY!) Going back to our beloved timeline, multiple events where women ascended to a position of power could have prompted this increase, such as the first female attorney, the first female secretary of state or the first female speaker of the house.
@@ -183,7 +183,7 @@ tend to do worse. Now how does that compare to this clustering ? When  looking a
 </object>
 
 <div class="left">
-  <a href="html_plots/clustering_genre_barplot.html">Figure 12</a>
+  <a href="html_plots/clustering_genre_barplot.html">Figure 13</a>
 </div>
 
 Action and Western still fall into the category of stereotypical as expected by the previous analysis.  Similarly, but on the other side of the spectrum, Horror and Musical are in the  non-stereotypical cluster. Surprisingly, Drama and Adventure are not on the side we would expect. Indeed, we previously saw that Drama had low women representation, but is actually overrepresented into the non-stereotypical cluster, and Adventure has a similar trend but in the opposite direction. 
@@ -199,13 +199,13 @@ yaaaaaaaaa
 yooooo 
 
 <div class="left">
-  <a href="html_plots/combined_word_freq_plots.html">Figure 13</a>
+  <a href="html_plots/combined_word_freq_plots.html">Figure 14</a>
 </div>
 
 hmmm
 
 <div class="left">
-  <a href="combined_plots.html" target="_blank">Figure 12 (Combined)</a>
+  <a href="combined_plots.html" target="_blank">Figure 15 (Combined)</a>
 </div>
 
 

@@ -297,11 +297,11 @@ It’s been a wild ride, thank you for tagging along with us! It’s time for a 
 
 <span class="pink-star">&#9733;</span> The representation of women is increasing, but all genres are not made equal.
 
-<span class="pink-star">&#9733;</span> The industry is aging but the age gap shows no signs of shrinking. 
+<span class="pink-star">&#9733;</span> The industry is aging but the age gap shows no sign of shrinking. 
 
 <span class="pink-star">&#9733;</span> While the proportion of female leads is increasing, the vocabulary analysis revealed that there was little improvement in the words associated with women characters.
 
-So should we be hopeless, not at all! We want to leave you with a positive outlook on the future of Hollywood. Indeed, 2023 has been promising for the future of women in the industry. Female led movies can be massive successes! The perfect example of this is the Barbie wave that hit us this summer. Directed by Greta Gerwig and with Margot Robie as the lead, it has been the highest grossing movie in Warner Brothers’ 100-year history with box office sales exceeding $567 million [^4]. Change is incremental and starts with sparks. Who knows... maybe we're just about to light a fire.
+So should we be hopeless? Not at all! We want to leave you with a positive outlook on the future of Hollywood. Indeed, 2023 has been promising for the future of women in the industry. Female led movies can be massive successes! The perfect example of this is the Barbie wave that hit us this summer. Directed by Greta Gerwig and with Margot Robbie as the lead, it has been the highest grossing movie in Warner Brothers’ 100-year history with box office sales exceeding $567 million [^4]. Change is incremental and starts with sparks. Who knows... maybe we're just about to light a fire.
 
 # References 
 [^1]: [The Hollywood Reporter, *Study Finds Women Represent a Third of Onscreen Population in Film*, 2022](https://www.hollywoodreporter.com/movies/movie-news/women-onscreen-representation-film-study-1235111493/)

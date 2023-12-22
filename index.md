@@ -191,7 +191,7 @@ There are of course limitations with this analysis. Most prevalently, we see tha
 
 ## Hey kids, spelling is fun! - Let's look at words
 
-As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. hmm
+As we’ve seen so far, it is not only important to have more women on screen, or even women be leads. It is also crucial to understand what kind of leads they’re portraying. This is why we have analysed the word, more specifically verbs adjectives and nouns, associated with each gender throughout the decades. This captures how women are depicted beyond being present and tagged as a main characters. maybe?
 
 <label for="plotSelector">Select a Plot:</label>
 <select id="plotSelector" onchange="loadPlot()">
@@ -206,19 +206,18 @@ As we’ve seen so far, it is not only important to have more women on screen, o
     }
 </style>
 
-<iframe id="plotFrame" width="100%" height="400px" frameborder="0" src=""></iframe>
+<iframe id="plotFrame1" width="100%" height="400px" frameborder="0" src=""></iframe>
 
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 <script>
     $(document).ready(function() {
-        // Set the default plot to "Verbs" after the page has loaded
-        $("#plotSelector").val("html_plots/interactive_plot_frequencies_Verbs.html");
+        $("#plotSelector1").val("html_plots/interactive_plot_frequencies_Verbs.html");
         loadPlot(); // Load the selected plot
     });
 
     function loadPlot() {
-        var selectedPlot = $("#plotSelector").val();
-        $("#plotFrame").attr("src", selectedPlot);
+        var selectedPlot = $("#plotSelector1").val();
+        $("#plotFrame1").attr("src", selectedPlot);
     }
 </script>
 
@@ -247,24 +246,24 @@ But one last time, let’s  break it down by genres.
     }
 </style>
 
-<iframe id="plotFrame" width="100%" height="400px" frameborder="0" src=""></iframe>
+<iframe id="plotFrame2" width="100%" height="400px" frameborder="0" src=""></iframe>
 
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 <script>
     $(document).ready(function() {
         // Set the default plot to "Verbs" after the page has loaded
-        $("#plotSelector").val("html_plots/rel_freq_interactive_Action.html");
+        $("#plotSelector2").val("html_plots/rel_freq_interactive_Action.html");
         loadPlot(); // Load the selected plot
     });
 
     function loadPlot() {
-        var selectedPlot = $("#plotSelector").val();
-        $("#plotFrame").attr("src", selectedPlot);
+        var selectedPlot = $("#plotSelector2").val();
+        $("#plotFrame2").attr("src", selectedPlot);
     }
 </script>
 
 <div class="left">
-  <a href="combined_plots.html" target="_blank">Figure 15 (Combined)</a>
+  Figure 15
 </div>
 
 Each genre is in fact recognizable for example action movies with words such as _kill_ _death_ or _battle_,  or  Westerns with _sheriff_, _ranch_ and _money_, and Horror with _alien_ ,_supernatural_ or _attack_. However, women both in stereotypical and non-stereotypical movies are associated with _mother_, _young_, _love_ and  _beautiful_, and this all regadless of the genre, up until the most recent decades. Thus, women are  mostly described based on their physical appearance and their relationship to others instead of having their own personality and being someone even in absence of others. As opposed to men who have a wider variety of words in every genre and mainly action words like  _kill_ and  _party_.  Nevertheless, we focused on the representation of  women here, but when looking at the words associated with men, even in what should be non-stereotypical movies, they're still not words like _father_ or _caring_, but rather still the stereotypical words. It therefore seems that when looking at the overarching trend, there has been no real improvement in ***how*** women are portrayed in the movie industry. Should you lose all hope? Most definitely not! 
